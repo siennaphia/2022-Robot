@@ -1,0 +1,3418 @@
+[
+    {
+        "messageType": 2,
+        "timestamp": 223.729248046875,
+        "seqNumber": 7729,
+        "line": "21:47:59-722 Loop Count Avg:Infinity Min:4.24 Max:8.02  Garage Collection Avg:Infinity Min:4.24 Max:4.28"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 277.607666015625,
+        "seqNumber": 7730,
+        "line": "21:48:53-598 ************** Dist:117.16 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 277.627197265625,
+        "seqNumber": 7731,
+        "line": "21:48:53-619 ************** Dist:139.73 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 278.688232421875,
+        "seqNumber": 7732,
+        "line": "21:48:54-680 ************** Dist:121.81 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 278.887939453125,
+        "seqNumber": 7733,
+        "line": "21:48:54-879 ************** Dist:116.95 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 283.729248046875,
+        "seqNumber": 7734,
+        "line": "21:48:59-721 Loop Count Avg:Infinity Min:4.27 Max:8.59  Garage Collection Avg:Infinity Min:4.20 Max:4.28"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.308349609375,
+        "seqNumber": 7735,
+        "line": "21:49:01-300 Start Prepare Climber"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.311767578125,
+        "seqNumber": 7736,
+        "line": "21:49:01-303 Start Climber mode:HOME distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.317138671875,
+        "seqNumber": 7737,
+        "line": "21:49:01-308 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.319091796875,
+        "seqNumber": 7738,
+        "line": "21:49:01-311 Start Homing of climber"
+    },
+    {
+        "timestamp": 285.323974609375,
+        "seqNumber": 7739,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "Loop time of 0.02s overrun\n",
+        "location": "edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.325927734375,
+        "seqNumber": 7740,
+        "line": "Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.326904296875,
+        "seqNumber": 7741,
+        "line": ""
+    },
+    {
+        "timestamp": 285.338134765625,
+        "seqNumber": 7742,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "\tteleopPeriodic(): 0.000106s\n\tSmartDashboard.updateValues(): 0.001608s\n\trobotPeriodic(): 0.016846s\n\tLiveWindow.updateValues(): 0.011483s\n\tShuffleboard.update(): 0.000012s\n",
+        "location": "edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.338623046875,
+        "seqNumber": 7743,
+        "line": "Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): \tteleopPeriodic(): 0.000106s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.341552734375,
+        "seqNumber": 7744,
+        "line": "\tSmartDashboard.updateValues(): 0.001608s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.341552734375,
+        "seqNumber": 7745,
+        "line": "\trobotPeriodic(): 0.016846s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.342041015625,
+        "seqNumber": 7746,
+        "line": "\tLiveWindow.updateValues(): 0.011483s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.342041015625,
+        "seqNumber": 7747,
+        "line": "\tShuffleboard.update(): 0.000012s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.342529296875,
+        "seqNumber": 7748,
+        "line": ""
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.353271484375,
+        "seqNumber": 7749,
+        "line": "21:49:01-345 Climber being homed count:449 limit L:false R:false"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.525634765625,
+        "seqNumber": 7750,
+        "line": "21:49:01-517 Climber being homed count:439 limit L:true R:true"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.529052734375,
+        "seqNumber": 7751,
+        "line": "21:49:01-519 Climber is homed count:439 limit L:true R:true"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.532470703125,
+        "seqNumber": 7752,
+        "line": "21:49:01-525 End Climber CMD End mode:HOME dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.534912109375,
+        "seqNumber": 7753,
+        "line": "21:49:01-526 Start Climber mode:STATIC_UP distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.535888671875,
+        "seqNumber": 7754,
+        "line": "21:49:01-528 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.560302734375,
+        "seqNumber": 7755,
+        "line": "21:49:01-552 End Climber CMD End mode:STATIC_UP dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.562744140625,
+        "seqNumber": 7756,
+        "line": "21:49:01-554 Start Climber mode:DYNAMIC_UP distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.563720703125,
+        "seqNumber": 7757,
+        "line": "21:49:01-556 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.573486328125,
+        "seqNumber": 7758,
+        "line": "21:49:01-565 End Climber CMD End mode:DYNAMIC_UP dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.576904296875,
+        "seqNumber": 7759,
+        "line": "21:49:01-567 Start Climber mode:BAR_RELEASE_IN distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.578857421875,
+        "seqNumber": 7760,
+        "line": "21:49:01-571 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 285.588623046875,
+        "seqNumber": 7761,
+        "line": "21:49:01-580 End Climber CMD End mode:BAR_RELEASE_IN dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.108642578125,
+        "seqNumber": 7762,
+        "line": "21:49:02-100 Start Climber mode:STATIC_DOWN distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.110595703125,
+        "seqNumber": 7763,
+        "line": "21:49:02-102 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.133544921875,
+        "seqNumber": 7764,
+        "line": "21:49:02-125 End Climber CMD End mode:STATIC_DOWN dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.138916015625,
+        "seqNumber": 7765,
+        "line": "21:49:02-130 Start Climber mode:DISTANCE distance:12.00 req speed:10.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.144287109375,
+        "seqNumber": 7766,
+        "line": "21:49:02-135 SetRequested Speed:10.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.145751953125,
+        "seqNumber": 7767,
+        "line": "CommandScheduler loop overrun"
+    },
+    {
+        "timestamp": 286.153564453125,
+        "seqNumber": 7768,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "\tClimbMotor.periodic(): 0.000131s\n\tCompressorController.periodic(): 0.000170s\n\tDrivetrain.periodic(): 0.000163s\n\tbuttons.run(): 0.000031s\n\tIntake.periodic(): 0.000532s\n\tPrepareClimber.execute(): 0.013630s\n\tYawProvider.periodic(): 0.000200s\n\tDistanceSensors.periodic(): 0.000234s\n\tShooter.periodic(): 0.000231s\n\tPID.periodic(): 0.003147s\n\tClimber.periodic(): 0.000392s\n\tLimelight.periodic(): 0.000261s\n\tPowerHub.periodic(): 0.000182s\n",
+        "location": "edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.154052734375,
+        "seqNumber": 7769,
+        "line": "Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): \tClimbMotor.periodic(): 0.000131s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.155517578125,
+        "seqNumber": 7770,
+        "line": "\tCompressorController.periodic(): 0.000170s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.155517578125,
+        "seqNumber": 7771,
+        "line": "\tDrivetrain.periodic(): 0.000163s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.156005859375,
+        "seqNumber": 7772,
+        "line": "\tbuttons.run(): 0.000031s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.158447265625,
+        "seqNumber": 7773,
+        "line": "\tIntake.periodic(): 0.000532s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.158447265625,
+        "seqNumber": 7774,
+        "line": "\tPrepareClimber.execute(): 0.013630s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.158935546875,
+        "seqNumber": 7775,
+        "line": "\tYawProvider.periodic(): 0.000200s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.158935546875,
+        "seqNumber": 7776,
+        "line": "\tDistanceSensors.periodic(): 0.000234s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.159423828125,
+        "seqNumber": 7777,
+        "line": "\tShooter.periodic(): 0.000231s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.159423828125,
+        "seqNumber": 7778,
+        "line": "\tPID.periodic(): 0.003147s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.159912109375,
+        "seqNumber": 7779,
+        "line": "\tClimber.periodic(): 0.000392s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.160888671875,
+        "seqNumber": 7780,
+        "line": "\tLimelight.periodic(): 0.000261s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.161376953125,
+        "seqNumber": 7781,
+        "line": "\tPowerHub.periodic(): 0.000182s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.161376953125,
+        "seqNumber": 7782,
+        "line": ""
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.238037109375,
+        "seqNumber": 7783,
+        "line": "21:49:02-228 Desired pos 1.00, current pos:0.00 left to go:12.00 pitch:1.72"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.325927734375,
+        "seqNumber": 7784,
+        "line": "21:49:02-317 Desired pos 2.00, current pos:0.05 left to go:11.00 pitch:1.72"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.426513671875,
+        "seqNumber": 7785,
+        "line": "21:49:02-418 Desired pos 3.00, current pos:1.28 left to go:10.00 pitch:1.71"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.526123046875,
+        "seqNumber": 7786,
+        "line": "21:49:02-517 Desired pos 4.00, current pos:2.91 left to go:9.00 pitch:1.74"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.626220703125,
+        "seqNumber": 7787,
+        "line": "21:49:02-617 Desired pos 5.00, current pos:4.20 left to go:8.00 pitch:1.76"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.725830078125,
+        "seqNumber": 7788,
+        "line": "21:49:02-717 Desired pos 6.00, current pos:5.17 left to go:7.00 pitch:1.75"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.825927734375,
+        "seqNumber": 7789,
+        "line": "21:49:02-817 Desired pos 7.00, current pos:6.14 left to go:6.00 pitch:1.78"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 286.926025390625,
+        "seqNumber": 7790,
+        "line": "21:49:02-917 Desired pos 8.00, current pos:7.16 left to go:5.00 pitch:1.70"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 287.026123046875,
+        "seqNumber": 7791,
+        "line": "21:49:03-017 Desired pos 9.00, current pos:8.16 left to go:4.00 pitch:1.77"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 287.126708984375,
+        "seqNumber": 7792,
+        "line": "21:49:03-118 Desired pos 10.00, current pos:9.17 left to go:3.00 pitch:1.78"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 287.226806640625,
+        "seqNumber": 7793,
+        "line": "21:49:03-218 Desired pos 11.00, current pos:10.18 left to go:2.00 pitch:1.80"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 287.325927734375,
+        "seqNumber": 7794,
+        "line": "21:49:03-317 Desired pos 12.00, current pos:11.08 left to go:1.00 pitch:1.79"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 287.424560546875,
+        "seqNumber": 7795,
+        "line": "21:49:03-417 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 287.429443359375,
+        "seqNumber": 7796,
+        "line": "21:49:03-421 End Climber CMD End mode:DISTANCE dist:12.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 287.431884765625,
+        "seqNumber": 7797,
+        "line": "21:49:03-424 End Prepare Climbe"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 288.088134765625,
+        "seqNumber": 7798,
+        "line": "21:49:04-079 ************** Dist:88.76 pulse:8 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 288.567626953125,
+        "seqNumber": 7799,
+        "line": "21:49:04-559 ************** Dist:103.68 pulse:4 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 288.944580078125,
+        "seqNumber": 7800,
+        "line": "21:49:04-936 Drive Straight start target yaw:160.64"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 289.526123046875,
+        "seqNumber": 7801,
+        "line": "21:49:05-517 Drive Straight targ:160.64 yaw:160.84 err:0.20 avg:0.12 factor:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 289.529052734375,
+        "seqNumber": 7802,
+        "line": "21:49:05-520 Pos L:24507 R:31857 Joy L:0.12 R:0.12"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 290.525634765625,
+        "seqNumber": 7803,
+        "line": "21:49:06-516 Drive Straight targ:160.64 yaw:161.17 err:0.53 avg:0.10 factor:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 291.525634765625,
+        "seqNumber": 7804,
+        "line": "21:49:07-516 Drive Straight targ:160.64 yaw:161.12 err:0.48 avg:0.07 factor:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 291.527587890625,
+        "seqNumber": 7805,
+        "line": "21:49:07-519 Pos L:47332 R:54459 Joy L:0.07 R:0.07"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 292.525634765625,
+        "seqNumber": 7806,
+        "line": "21:49:08-516 Drive Straight targ:160.64 yaw:161.03 err:0.39 avg:0.07 factor:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 293.526123046875,
+        "seqNumber": 7807,
+        "line": "21:49:09-516 Drive Straight targ:160.64 yaw:161.26 err:0.62 avg:0.10 factor:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 293.533447265625,
+        "seqNumber": 7808,
+        "line": "21:49:09-524 Pos L:59868 R:66847 Joy L:0.09 R:0.10"
+    },
+    {
+        "timestamp": 293.543701171875,
+        "seqNumber": 7809,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "Loop time of 0.02s overrun\n",
+        "location": "edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 293.544677734375,
+        "seqNumber": 7810,
+        "line": "Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 293.545166015625,
+        "seqNumber": 7811,
+        "line": ""
+    },
+    {
+        "timestamp": 293.547119140625,
+        "seqNumber": 7812,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "\tteleopPeriodic(): 0.000104s\n\tSmartDashboard.updateValues(): 0.000448s\n\trobotPeriodic(): 0.017078s\n\tLiveWindow.updateValues(): 0.002870s\n\tShuffleboard.update(): 0.000013s\n",
+        "location": "edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 293.548095703125,
+        "seqNumber": 7813,
+        "line": "Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): \tteleopPeriodic(): 0.000104s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 293.548583984375,
+        "seqNumber": 7814,
+        "line": "\tSmartDashboard.updateValues(): 0.000448s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 293.549072265625,
+        "seqNumber": 7815,
+        "line": "\trobotPeriodic(): 0.017078s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 293.549560546875,
+        "seqNumber": 7816,
+        "line": "\tLiveWindow.updateValues(): 0.002870s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 293.549560546875,
+        "seqNumber": 7817,
+        "line": "\tShuffleboard.update(): 0.000013s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 293.550048828125,
+        "seqNumber": 7818,
+        "line": ""
+    },
+    {
+        "messageType": 2,
+        "timestamp": 294.264892578125,
+        "seqNumber": 7819,
+        "line": "21:49:10-256 Drive Straight finish target:160.64 yaw:161.50"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 299.887451171875,
+        "seqNumber": 7820,
+        "line": "21:49:15-879 Start Auto Climb 3 Bars"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 299.891845703125,
+        "seqNumber": 7821,
+        "line": "21:49:15-883 Start Climber mode:DISTANCE distance:0.50 req speed:6.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 299.894775390625,
+        "seqNumber": 7822,
+        "line": "21:49:15-884 SetRequested Speed:6.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 299.927490234375,
+        "seqNumber": 7823,
+        "line": "21:49:15-918 Desired pos 11.40, current pos:12.00 left to go:11.50 pitch:1.67"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 300.026611328125,
+        "seqNumber": 7824,
+        "line": "21:49:16-017 Desired pos 10.80, current pos:11.48 left to go:10.90 pitch:1.67"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 300.126708984375,
+        "seqNumber": 7825,
+        "line": "21:49:16-117 Desired pos 10.20, current pos:10.70 left to go:10.30 pitch:1.67"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 300.226318359375,
+        "seqNumber": 7826,
+        "line": "21:49:16-217 Desired pos 9.60, current pos:10.13 left to go:9.70 pitch:1.66"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 300.325927734375,
+        "seqNumber": 7827,
+        "line": "21:49:16-317 Desired pos 9.00, current pos:9.60 left to go:9.10 pitch:1.67"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 300.426025390625,
+        "seqNumber": 7828,
+        "line": "21:49:16-417 Desired pos 8.40, current pos:8.94 left to go:8.50 pitch:1.68"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 300.527099609375,
+        "seqNumber": 7829,
+        "line": "21:49:16-518 Desired pos 7.80, current pos:8.40 left to go:7.90 pitch:1.64"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 300.626220703125,
+        "seqNumber": 7830,
+        "line": "21:49:16-617 Desired pos 7.20, current pos:7.97 left to go:7.30 pitch:1.34"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 300.726318359375,
+        "seqNumber": 7831,
+        "line": "21:49:16-717 Desired pos 6.60, current pos:7.38 left to go:6.70 pitch:1.20"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 300.825927734375,
+        "seqNumber": 7832,
+        "line": "21:49:16-817 Desired pos 6.00, current pos:6.72 left to go:6.10 pitch:1.15"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 300.926025390625,
+        "seqNumber": 7833,
+        "line": "21:49:16-917 Desired pos 5.40, current pos:6.07 left to go:5.50 pitch:1.03"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.026611328125,
+        "seqNumber": 7834,
+        "line": "21:49:17-018 Desired pos 4.80, current pos:5.47 left to go:4.90 pitch:1.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.126708984375,
+        "seqNumber": 7835,
+        "line": "21:49:17-118 Desired pos 4.20, current pos:4.86 left to go:4.30 pitch:1.07"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.226318359375,
+        "seqNumber": 7836,
+        "line": "21:49:17-217 Desired pos 3.60, current pos:4.23 left to go:3.70 pitch:1.09"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.287841796875,
+        "seqNumber": 7837,
+        "line": "21:49:17-279 ************** Dist:61.50 pulse:4 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.326416015625,
+        "seqNumber": 7838,
+        "line": "21:49:17-317 Desired pos 3.00, current pos:3.63 left to go:3.10 pitch:1.09"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.388427734375,
+        "seqNumber": 7839,
+        "line": "21:49:17-380 ************** Dist:53.03 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.426513671875,
+        "seqNumber": 7840,
+        "line": "21:49:17-417 Desired pos 2.40, current pos:3.02 left to go:2.50 pitch:1.13"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.526123046875,
+        "seqNumber": 7841,
+        "line": "21:49:17-517 Desired pos 1.80, current pos:2.40 left to go:1.90 pitch:1.15"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.626220703125,
+        "seqNumber": 7842,
+        "line": "21:49:17-617 Desired pos 1.20, current pos:1.78 left to go:1.30 pitch:1.14"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.726318359375,
+        "seqNumber": 7843,
+        "line": "21:49:17-717 Desired pos 0.60, current pos:1.17 left to go:0.70 pitch:1.07"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.825927734375,
+        "seqNumber": 7844,
+        "line": "21:49:17-817 Desired pos -0.00, current pos:0.55 left to go:0.10 pitch:1.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.925048828125,
+        "seqNumber": 7845,
+        "line": "21:49:17-917 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 301.929931640625,
+        "seqNumber": 7846,
+        "line": "21:49:17-921 End Climber CMD End mode:DISTANCE dist:0.50"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 302.448974609375,
+        "seqNumber": 7847,
+        "line": "21:49:18-441 Start Climber mode:STATIC_UP distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 302.451904296875,
+        "seqNumber": 7848,
+        "line": "21:49:18-443 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 302.468994140625,
+        "seqNumber": 7849,
+        "line": "21:49:18-461 End Climber CMD End mode:STATIC_UP dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 302.988525390625,
+        "seqNumber": 7850,
+        "line": "21:49:18-980 Start Climber mode:DISTANCE distance:4.00 req speed:18.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 302.991943359375,
+        "seqNumber": 7851,
+        "line": "21:49:18-982 SetRequested Speed:18.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.026611328125,
+        "seqNumber": 7852,
+        "line": "21:49:19-018 Desired pos 1.74, current pos:-0.06 left to go:4.06 pitch:1.39"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.126220703125,
+        "seqNumber": 7853,
+        "line": "21:49:19-117 Desired pos 3.54, current pos:0.71 left to go:2.26 pitch:1.92"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.226318359375,
+        "seqNumber": 7854,
+        "line": "21:49:19-217 Desired pos 5.34, current pos:2.30 left to go:0.46 pitch:1.16"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.326416015625,
+        "seqNumber": 7855,
+        "line": "21:49:19-318 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.331787109375,
+        "seqNumber": 7856,
+        "line": "21:49:19-324 End Climber CMD End mode:DISTANCE dist:4.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.335205078125,
+        "seqNumber": 7857,
+        "line": "21:49:19-327 Start Climber mode:DYNAMIC_DOWN distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.340576171875,
+        "seqNumber": 7858,
+        "line": "21:49:19-332 SetRequested Speed:0.00"
+    },
+    {
+        "timestamp": 303.343994140625,
+        "seqNumber": 7859,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "Loop time of 0.02s overrun\n",
+        "location": "edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.344970703125,
+        "seqNumber": 7860,
+        "line": "Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.345458984375,
+        "seqNumber": 7861,
+        "line": ""
+    },
+    {
+        "timestamp": 303.353271484375,
+        "seqNumber": 7862,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "\tteleopPeriodic(): 0.001038s\n\tSmartDashboard.updateValues(): 0.001714s\n\trobotPeriodic(): 0.016562s\n\tLiveWindow.updateValues(): 0.008396s\n\tShuffleboard.update(): 0.000011s\n",
+        "location": "edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.354248046875,
+        "seqNumber": 7863,
+        "line": "Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): \tteleopPeriodic(): 0.001038s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.354736328125,
+        "seqNumber": 7864,
+        "line": "\tSmartDashboard.updateValues(): 0.001714s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.355224609375,
+        "seqNumber": 7865,
+        "line": "\trobotPeriodic(): 0.016562s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.355712890625,
+        "seqNumber": 7866,
+        "line": "\tLiveWindow.updateValues(): 0.008396s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.356201171875,
+        "seqNumber": 7867,
+        "line": "\tShuffleboard.update(): 0.000011s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.356201171875,
+        "seqNumber": 7868,
+        "line": ""
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.368408203125,
+        "seqNumber": 7869,
+        "line": "21:49:19-360 End Climber CMD End mode:DYNAMIC_DOWN dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.371826171875,
+        "seqNumber": 7870,
+        "line": "21:49:19-362 Start Climber mode:DISTANCE distance:32.00 req speed:18.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.375732421875,
+        "seqNumber": 7871,
+        "line": "21:49:19-365 SetRequested Speed:18.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.381103515625,
+        "seqNumber": 7872,
+        "line": "CommandScheduler loop overrun"
+    },
+    {
+        "timestamp": 303.394775390625,
+        "seqNumber": 7873,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "\tLiftCmd3Bar.execute(): 0.013834s\n\tClimbMotor.periodic(): 0.000222s\n\tCompressorController.periodic(): 0.000232s\n\tDrivetrain.periodic(): 0.006873s\n\tbuttons.run(): 0.000037s\n\tIntake.periodic(): 0.000144s\n\tYawProvider.periodic(): 0.000449s\n\tDistanceSensors.periodic(): 0.000251s\n\tShooter.periodic(): 0.000423s\n\tPID.periodic(): 0.000147s\n\tClimber.periodic(): 0.000425s\n\tLimelight.periodic(): 0.000718s\n\tPowerHub.periodic(): 0.000486s\n",
+        "location": "edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.395263671875,
+        "seqNumber": 7874,
+        "line": "Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): \tLiftCmd3Bar.execute(): 0.013834s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.396728515625,
+        "seqNumber": 7875,
+        "line": "\tClimbMotor.periodic(): 0.000222s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.397216796875,
+        "seqNumber": 7876,
+        "line": "\tCompressorController.periodic(): 0.000232s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.397705078125,
+        "seqNumber": 7877,
+        "line": "\tDrivetrain.periodic(): 0.006873s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.398681640625,
+        "seqNumber": 7878,
+        "line": "\tbuttons.run(): 0.000037s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.398681640625,
+        "seqNumber": 7879,
+        "line": "\tIntake.periodic(): 0.000144s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.399169921875,
+        "seqNumber": 7880,
+        "line": "\tYawProvider.periodic(): 0.000449s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.399169921875,
+        "seqNumber": 7881,
+        "line": "\tDistanceSensors.periodic(): 0.000251s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.399658203125,
+        "seqNumber": 7882,
+        "line": "\tShooter.periodic(): 0.000423s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.400146484375,
+        "seqNumber": 7883,
+        "line": "\tPID.periodic(): 0.000147s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.400146484375,
+        "seqNumber": 7884,
+        "line": "\tClimber.periodic(): 0.000425s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.400634765625,
+        "seqNumber": 7885,
+        "line": "\tLimelight.periodic(): 0.000718s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.400634765625,
+        "seqNumber": 7886,
+        "line": "\tPowerHub.periodic(): 0.000486s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.401123046875,
+        "seqNumber": 7887,
+        "line": ""
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.485595703125,
+        "seqNumber": 7888,
+        "line": "21:49:19-477 Desired pos 6.80, current pos:5.64 left to go:27.00 pitch:1.06"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.532470703125,
+        "seqNumber": 7889,
+        "line": "21:49:19-523 Desired pos 8.60, current pos:5.61 left to go:25.20 pitch:1.47"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.626708984375,
+        "seqNumber": 7890,
+        "line": "21:49:19-617 Desired pos 10.40, current pos:6.38 left to go:23.40 pitch:1.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.726318359375,
+        "seqNumber": 7891,
+        "line": "21:49:19-717 Desired pos 12.20, current pos:7.38 left to go:21.60 pitch:1.27"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.826416015625,
+        "seqNumber": 7892,
+        "line": "21:49:19-817 Desired pos 14.00, current pos:8.78 left to go:19.80 pitch:1.38"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 303.927001953125,
+        "seqNumber": 7893,
+        "line": "21:49:19-917 Desired pos 15.80, current pos:10.46 left to go:18.00 pitch:1.26"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.027099609375,
+        "seqNumber": 7894,
+        "line": "21:49:20-017 Desired pos 17.60, current pos:12.21 left to go:16.20 pitch:1.36"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.126708984375,
+        "seqNumber": 7895,
+        "line": "21:49:20-117 Desired pos 19.40, current pos:14.00 left to go:14.40 pitch:1.12"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.226318359375,
+        "seqNumber": 7896,
+        "line": "21:49:20-217 Desired pos 21.20, current pos:15.77 left to go:12.60 pitch:1.15"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.327392578125,
+        "seqNumber": 7897,
+        "line": "21:49:20-317 Desired pos 23.00, current pos:17.56 left to go:10.80 pitch:1.14"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.426025390625,
+        "seqNumber": 7898,
+        "line": "21:49:20-417 Desired pos 24.80, current pos:19.33 left to go:9.00 pitch:1.22"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.526611328125,
+        "seqNumber": 7899,
+        "line": "21:49:20-518 Desired pos 26.60, current pos:21.12 left to go:7.20 pitch:1.30"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.608642578125,
+        "seqNumber": 7900,
+        "line": "21:49:20-600 ************** Dist:47.30 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.628662109375,
+        "seqNumber": 7901,
+        "line": "21:49:20-617 Desired pos 28.40, current pos:22.91 left to go:5.40 pitch:1.18"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.707763671875,
+        "seqNumber": 7902,
+        "line": "21:49:20-699 ************** Dist:51.89 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.726806640625,
+        "seqNumber": 7903,
+        "line": "21:49:20-717 Desired pos 30.20, current pos:24.69 left to go:3.60 pitch:1.10"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.825927734375,
+        "seqNumber": 7904,
+        "line": "21:49:20-817 Desired pos 32.00, current pos:26.31 left to go:1.80 pitch:1.04"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.907470703125,
+        "seqNumber": 7905,
+        "line": "21:49:20-899 ************** Dist:43.89 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 304.927001953125,
+        "seqNumber": 7906,
+        "line": "21:49:20-918 Desired pos 33.80, current pos:27.20 left to go:0.00 pitch:1.09"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 305.008544921875,
+        "seqNumber": 7907,
+        "line": "21:49:20-999 ************** Dist:50.09 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 305.025146484375,
+        "seqNumber": 7908,
+        "line": "21:49:21-018 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 305.029541015625,
+        "seqNumber": 7909,
+        "line": "21:49:21-021 End Climber CMD End mode:DISTANCE dist:32.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 305.548583984375,
+        "seqNumber": 7910,
+        "line": "21:49:21-540 Start Climber mode:DYNAMIC_UP distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 305.551025390625,
+        "seqNumber": 7911,
+        "line": "21:49:21-542 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 305.568115234375,
+        "seqNumber": 7912,
+        "line": "21:49:21-560 End Climber CMD End mode:DYNAMIC_UP dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 305.707763671875,
+        "seqNumber": 7913,
+        "line": "21:49:21-699 ************** Dist:46.52 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 306.087646484375,
+        "seqNumber": 7914,
+        "line": "21:49:22-079 ************** Dist:37.64 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 306.588134765625,
+        "seqNumber": 7915,
+        "line": "21:49:22-579 Start Climber mode:DISTANCE distance:18.00 req speed:3.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 306.591552734375,
+        "seqNumber": 7916,
+        "line": "21:49:22-582 SetRequested Speed:3.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 306.626220703125,
+        "seqNumber": 7917,
+        "line": "21:49:22-618 Desired pos 27.92, current pos:28.22 left to go:10.22 pitch:1.13"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 306.726318359375,
+        "seqNumber": 7918,
+        "line": "21:49:22-717 Desired pos 27.62, current pos:28.22 left to go:9.92 pitch:1.04"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 306.767333984375,
+        "seqNumber": 7919,
+        "line": "21:49:22-759 ************** Dist:46.37 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 306.826416015625,
+        "seqNumber": 7920,
+        "line": "21:49:22-817 Desired pos 27.32, current pos:28.22 left to go:9.62 pitch:1.03"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 306.848388671875,
+        "seqNumber": 7921,
+        "line": "21:49:22-839 ************** Dist:51.07 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 306.926513671875,
+        "seqNumber": 7922,
+        "line": "21:49:22-918 Desired pos 27.02, current pos:28.22 left to go:9.32 pitch:1.13"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.026123046875,
+        "seqNumber": 7923,
+        "line": "21:49:23-017 Desired pos 26.72, current pos:28.22 left to go:9.02 pitch:1.18"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.125732421875,
+        "seqNumber": 7924,
+        "line": "21:49:23-117 Desired pos 26.42, current pos:28.22 left to go:8.72 pitch:1.19"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.226318359375,
+        "seqNumber": 7925,
+        "line": "21:49:23-217 Desired pos 26.12, current pos:28.22 left to go:8.42 pitch:1.25"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.247802734375,
+        "seqNumber": 7926,
+        "line": "21:49:23-239 ************** Dist:54.22 pulse:4 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.325927734375,
+        "seqNumber": 7927,
+        "line": "21:49:23-317 Desired pos 25.82, current pos:28.22 left to go:8.12 pitch:1.29"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.347412109375,
+        "seqNumber": 7928,
+        "line": "21:49:23-339 ************** Dist:50.09 pulse:-1 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.426025390625,
+        "seqNumber": 7929,
+        "line": "21:49:23-417 Desired pos 25.52, current pos:28.22 left to go:7.82 pitch:1.33"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.527587890625,
+        "seqNumber": 7930,
+        "line": "21:49:23-517 Desired pos 25.22, current pos:28.22 left to go:7.52 pitch:1.35"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.625732421875,
+        "seqNumber": 7931,
+        "line": "21:49:23-617 Desired pos 24.92, current pos:28.22 left to go:7.22 pitch:1.29"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.726318359375,
+        "seqNumber": 7932,
+        "line": "21:49:23-717 Desired pos 24.62, current pos:28.22 left to go:6.92 pitch:1.27"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.826416015625,
+        "seqNumber": 7933,
+        "line": "21:49:23-817 Desired pos 24.32, current pos:28.22 left to go:6.62 pitch:1.23"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.926025390625,
+        "seqNumber": 7934,
+        "line": "21:49:23-917 Desired pos 24.02, current pos:28.22 left to go:6.32 pitch:1.22"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 307.932861328125,
+        "seqNumber": 7935,
+        "line": "21:49:23-924 ************** Dist:40.59 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 308.026123046875,
+        "seqNumber": 7936,
+        "line": "21:49:24-017 Desired pos 23.72, current pos:28.22 left to go:6.02 pitch:1.23"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 308.127197265625,
+        "seqNumber": 7937,
+        "line": "21:49:24-117 Desired pos 23.42, current pos:28.22 left to go:5.72 pitch:1.24"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 308.225830078125,
+        "seqNumber": 7938,
+        "line": "21:49:24-217 Desired pos 23.12, current pos:28.22 left to go:5.42 pitch:1.30"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 308.328857421875,
+        "seqNumber": 7939,
+        "line": "21:49:24-319 Desired pos 22.82, current pos:28.22 left to go:5.12 pitch:1.27"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 308.428955078125,
+        "seqNumber": 7940,
+        "line": "21:49:24-417 Desired pos 22.52, current pos:28.22 left to go:4.82 pitch:1.22"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 308.527099609375,
+        "seqNumber": 7941,
+        "line": "21:49:24-518 Desired pos 22.22, current pos:28.00 left to go:4.52 pitch:1.19"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 308.626220703125,
+        "seqNumber": 7942,
+        "line": "21:49:24-617 Desired pos 21.92, current pos:27.63 left to go:4.22 pitch:1.17"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 308.726318359375,
+        "seqNumber": 7943,
+        "line": "21:49:24-718 Desired pos 21.62, current pos:27.14 left to go:3.92 pitch:1.15"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 308.826416015625,
+        "seqNumber": 7944,
+        "line": "21:49:24-817 Desired pos 21.32, current pos:26.48 left to go:3.62 pitch:1.18"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 308.926025390625,
+        "seqNumber": 7945,
+        "line": "21:49:24-917 Desired pos 21.02, current pos:25.89 left to go:3.32 pitch:1.17"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 309.026123046875,
+        "seqNumber": 7946,
+        "line": "21:49:25-017 Desired pos 20.72, current pos:25.32 left to go:3.02 pitch:1.22"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 309.126220703125,
+        "seqNumber": 7947,
+        "line": "21:49:25-117 Desired pos 20.42, current pos:24.76 left to go:2.72 pitch:1.17"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 309.227294921875,
+        "seqNumber": 7948,
+        "line": "21:49:25-217 Desired pos 20.12, current pos:24.24 left to go:2.42 pitch:1.24"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 309.326416015625,
+        "seqNumber": 7949,
+        "line": "21:49:25-318 Desired pos 19.82, current pos:23.76 left to go:2.12 pitch:1.23"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 309.426025390625,
+        "seqNumber": 7950,
+        "line": "21:49:25-417 Desired pos 19.52, current pos:23.23 left to go:1.82 pitch:0.95"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 309.526123046875,
+        "seqNumber": 7951,
+        "line": "21:49:25-517 Desired pos 19.22, current pos:22.75 left to go:1.52 pitch:0.91"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 309.626220703125,
+        "seqNumber": 7952,
+        "line": "21:49:25-617 Desired pos 18.92, current pos:22.27 left to go:1.22 pitch:1.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 309.725830078125,
+        "seqNumber": 7953,
+        "line": "21:49:25-717 Desired pos 18.62, current pos:21.79 left to go:0.92 pitch:1.01"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 309.826416015625,
+        "seqNumber": 7954,
+        "line": "21:49:25-817 Desired pos 18.32, current pos:21.37 left to go:0.62 pitch:1.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 309.927001953125,
+        "seqNumber": 7955,
+        "line": "21:49:25-918 Desired pos 18.02, current pos:20.86 left to go:0.32 pitch:0.85"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.025634765625,
+        "seqNumber": 7956,
+        "line": "21:49:26-017 Desired pos 17.72, current pos:20.40 left to go:0.02 pitch:0.88"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.124755859375,
+        "seqNumber": 7957,
+        "line": "21:49:26-117 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.129638671875,
+        "seqNumber": 7958,
+        "line": "21:49:26-121 End Climber CMD End mode:DISTANCE dist:18.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.133056640625,
+        "seqNumber": 7959,
+        "line": "21:49:26-124 Start Climber mode:STATIC_DOWN distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.138427734375,
+        "seqNumber": 7960,
+        "line": "21:49:26-130 SetRequested Speed:0.00"
+    },
+    {
+        "timestamp": 310.143310546875,
+        "seqNumber": 7961,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "Loop time of 0.02s overrun\n",
+        "location": "edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.143798828125,
+        "seqNumber": 7962,
+        "line": "Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.144287109375,
+        "seqNumber": 7963,
+        "line": ""
+    },
+    {
+        "timestamp": 310.159912109375,
+        "seqNumber": 7964,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "\tteleopPeriodic(): 0.000153s\n\tSmartDashboard.updateValues(): 0.000452s\n\trobotPeriodic(): 0.017205s\n\tLiveWindow.updateValues(): 0.002932s\n\tShuffleboard.update(): 0.000012s\n",
+        "location": "edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.160400390625,
+        "seqNumber": 7965,
+        "line": "Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): \tteleopPeriodic(): 0.000153s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.160888671875,
+        "seqNumber": 7966,
+        "line": "\tSmartDashboard.updateValues(): 0.000452s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.161376953125,
+        "seqNumber": 7967,
+        "line": "\trobotPeriodic(): 0.017205s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.161865234375,
+        "seqNumber": 7968,
+        "line": "\tLiveWindow.updateValues(): 0.002932s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.161865234375,
+        "seqNumber": 7969,
+        "line": "\tShuffleboard.update(): 0.000012s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.162353515625,
+        "seqNumber": 7970,
+        "line": ""
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.177978515625,
+        "seqNumber": 7971,
+        "line": "21:49:26-169 End Climber CMD End mode:STATIC_DOWN dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.287841796875,
+        "seqNumber": 7972,
+        "line": "21:49:26-279 ************** Dist:61.91 pulse:4 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.690673828125,
+        "seqNumber": 7973,
+        "line": "21:49:26-682 Start Climber mode:DISTANCE distance:13.00 req speed:3.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.692626953125,
+        "seqNumber": 7974,
+        "line": "21:49:26-684 SetRequested Speed:3.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.725830078125,
+        "seqNumber": 7975,
+        "line": "21:49:26-717 Desired pos 18.98, current pos:19.26 left to go:6.28 pitch:0.92"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.826904296875,
+        "seqNumber": 7976,
+        "line": "21:49:26-817 Desired pos 18.68, current pos:19.88 left to go:5.98 pitch:0.97"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 310.926025390625,
+        "seqNumber": 7977,
+        "line": "21:49:26-917 Desired pos 18.38, current pos:20.37 left to go:5.68 pitch:1.20"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 311.025634765625,
+        "seqNumber": 7978,
+        "line": "21:49:27-017 Desired pos 18.08, current pos:19.76 left to go:5.38 pitch:0.93"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 311.126708984375,
+        "seqNumber": 7979,
+        "line": "21:49:27-117 Desired pos 17.78, current pos:19.22 left to go:5.08 pitch:0.96"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 311.226806640625,
+        "seqNumber": 7980,
+        "line": "21:49:27-217 Desired pos 17.48, current pos:19.00 left to go:4.78 pitch:0.87"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 311.326416015625,
+        "seqNumber": 7981,
+        "line": "21:49:27-317 Desired pos 17.18, current pos:18.62 left to go:4.48 pitch:1.02"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 311.426025390625,
+        "seqNumber": 7982,
+        "line": "21:49:27-417 Desired pos 16.88, current pos:18.25 left to go:4.18 pitch:1.24"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 311.526611328125,
+        "seqNumber": 7983,
+        "line": "21:49:27-517 Desired pos 16.58, current pos:17.95 left to go:3.88 pitch:1.05"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 311.626220703125,
+        "seqNumber": 7984,
+        "line": "21:49:27-617 Desired pos 16.28, current pos:17.59 left to go:3.58 pitch:0.75"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 311.726806640625,
+        "seqNumber": 7985,
+        "line": "21:49:27-718 Desired pos 15.98, current pos:17.15 left to go:3.28 pitch:0.57"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 311.826904296875,
+        "seqNumber": 7986,
+        "line": "21:49:27-817 Desired pos 15.68, current pos:16.84 left to go:2.98 pitch:0.63"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 311.926025390625,
+        "seqNumber": 7987,
+        "line": "21:49:27-917 Desired pos 15.38, current pos:16.55 left to go:2.68 pitch:0.44"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.026611328125,
+        "seqNumber": 7988,
+        "line": "21:49:28-017 Desired pos 15.08, current pos:16.16 left to go:2.38 pitch:0.76"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.048095703125,
+        "seqNumber": 7989,
+        "line": "21:49:28-039 ************** Dist:155.32 pulse:-1 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.127685546875,
+        "seqNumber": 7990,
+        "line": "21:49:28-118 Desired pos 14.78, current pos:15.79 left to go:2.08 pitch:1.21"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.134033203125,
+        "seqNumber": 7991,
+        "line": "21:49:28-125 ************** Dist:89.33 pulse:8 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.227783203125,
+        "seqNumber": 7992,
+        "line": "21:49:28-218 Desired pos 14.48, current pos:15.46 left to go:1.78 pitch:1.68"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.326416015625,
+        "seqNumber": 7993,
+        "line": "21:49:28-317 Desired pos 14.18, current pos:15.10 left to go:1.48 pitch:1.96"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.427001953125,
+        "seqNumber": 7994,
+        "line": "21:49:28-417 Desired pos 13.88, current pos:14.72 left to go:1.18 pitch:2.01"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.526123046875,
+        "seqNumber": 7995,
+        "line": "21:49:28-517 Desired pos 13.58, current pos:14.39 left to go:0.88 pitch:1.73"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.533447265625,
+        "seqNumber": 7996,
+        "line": "21:49:28-524 ************** Dist:98.73 pulse:4 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.627197265625,
+        "seqNumber": 7997,
+        "line": "21:49:28-618 Desired pos 13.28, current pos:14.07 left to go:0.58 pitch:1.29"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.726318359375,
+        "seqNumber": 7998,
+        "line": "21:49:28-718 Desired pos 12.98, current pos:13.73 left to go:0.28 pitch:1.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.825439453125,
+        "seqNumber": 7999,
+        "line": "21:49:28-817 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.830322265625,
+        "seqNumber": 8000,
+        "line": "21:49:28-822 End Climber CMD End mode:DISTANCE dist:13.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.832275390625,
+        "seqNumber": 8001,
+        "line": "21:49:28-823 Start Climber mode:BAR_RELEASE_OUT distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.834228515625,
+        "seqNumber": 8002,
+        "line": "21:49:28-825 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.847900390625,
+        "seqNumber": 8003,
+        "line": "21:49:28-840 End Climber CMD End mode:BAR_RELEASE_OUT dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 312.927978515625,
+        "seqNumber": 8004,
+        "line": "21:49:28-919 ************** Dist:147.57 pulse:-1 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.370849609375,
+        "seqNumber": 8005,
+        "line": "21:49:29-362 Start Climber mode:BAR_RELEASE_IN distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.372314453125,
+        "seqNumber": 8006,
+        "line": "21:49:29-365 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.389404296875,
+        "seqNumber": 8007,
+        "line": "21:49:29-381 End Climber CMD End mode:BAR_RELEASE_IN dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.391357421875,
+        "seqNumber": 8008,
+        "line": "21:49:29-382 Start Climber mode:DISTANCE distance:0.50 req speed:6.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.393310546875,
+        "seqNumber": 8009,
+        "line": "21:49:29-384 SetRequested Speed:6.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.426025390625,
+        "seqNumber": 8010,
+        "line": "21:49:29-417 Desired pos 12.70, current pos:13.29 left to go:12.80 pitch:0.90"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.526123046875,
+        "seqNumber": 8011,
+        "line": "21:49:29-517 Desired pos 12.10, current pos:13.08 left to go:12.20 pitch:0.85"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.530029296875,
+        "seqNumber": 8012,
+        "line": "21:49:29-521 ************** Dist:151.81 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.625732421875,
+        "seqNumber": 8013,
+        "line": "21:49:29-617 Desired pos 11.50, current pos:12.51 left to go:11.60 pitch:1.29"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.727294921875,
+        "seqNumber": 8014,
+        "line": "21:49:29-718 Desired pos 10.90, current pos:11.66 left to go:11.00 pitch:1.18"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.825927734375,
+        "seqNumber": 8015,
+        "line": "21:49:29-817 Desired pos 10.30, current pos:11.10 left to go:10.40 pitch:1.18"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 313.926025390625,
+        "seqNumber": 8016,
+        "line": "21:49:29-917 Desired pos 9.70, current pos:10.52 left to go:9.80 pitch:0.95"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 314.026611328125,
+        "seqNumber": 8017,
+        "line": "21:49:30-017 Desired pos 9.10, current pos:9.90 left to go:9.20 pitch:0.75"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 314.125732421875,
+        "seqNumber": 8018,
+        "line": "21:49:30-117 Desired pos 8.50, current pos:9.29 left to go:8.60 pitch:0.71"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 314.226318359375,
+        "seqNumber": 8019,
+        "line": "21:49:30-217 Desired pos 7.90, current pos:8.65 left to go:8.00 pitch:0.93"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 314.326416015625,
+        "seqNumber": 8020,
+        "line": "21:49:30-317 Desired pos 7.30, current pos:8.04 left to go:7.40 pitch:1.02"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 314.427001953125,
+        "seqNumber": 8021,
+        "line": "21:49:30-417 Desired pos 6.70, current pos:7.46 left to go:6.80 pitch:1.17"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 314.526123046875,
+        "seqNumber": 8022,
+        "line": "21:49:30-517 Desired pos 6.10, current pos:6.83 left to go:6.20 pitch:1.32"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 314.625732421875,
+        "seqNumber": 8023,
+        "line": "21:49:30-617 Desired pos 5.50, current pos:6.18 left to go:5.60 pitch:1.36"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 314.688232421875,
+        "seqNumber": 8024,
+        "line": "21:49:30-680 ************** Dist:141.07 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 314.726806640625,
+        "seqNumber": 8025,
+        "line": "21:49:30-717 Desired pos 4.90, current pos:5.55 left to go:5.00 pitch:1.23"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 314.825927734375,
+        "seqNumber": 8026,
+        "line": "21:49:30-817 Desired pos 4.30, current pos:4.93 left to go:4.40 pitch:1.03"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 314.926513671875,
+        "seqNumber": 8027,
+        "line": "21:49:30-917 Desired pos 3.70, current pos:4.30 left to go:3.80 pitch:0.91"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.026611328125,
+        "seqNumber": 8028,
+        "line": "21:49:31-017 Desired pos 3.10, current pos:3.69 left to go:3.20 pitch:0.86"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.126220703125,
+        "seqNumber": 8029,
+        "line": "21:49:31-117 Desired pos 2.50, current pos:3.10 left to go:2.60 pitch:0.93"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.226318359375,
+        "seqNumber": 8030,
+        "line": "21:49:31-217 Desired pos 1.90, current pos:2.49 left to go:2.00 pitch:1.01"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.288818359375,
+        "seqNumber": 8031,
+        "line": "21:49:31-280 ************** Dist:89.69 pulse:8 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.326904296875,
+        "seqNumber": 8032,
+        "line": "21:49:31-318 Desired pos 1.30, current pos:1.89 left to go:1.40 pitch:0.98"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.426025390625,
+        "seqNumber": 8033,
+        "line": "21:49:31-417 Desired pos 0.70, current pos:1.28 left to go:0.80 pitch:0.98"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.526611328125,
+        "seqNumber": 8034,
+        "line": "21:49:31-518 Desired pos 0.10, current pos:0.66 left to go:0.20 pitch:0.88"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.624755859375,
+        "seqNumber": 8035,
+        "line": "21:49:31-617 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.630126953125,
+        "seqNumber": 8036,
+        "line": "21:49:31-622 End Climber CMD End mode:DISTANCE dist:0.50"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.632568359375,
+        "seqNumber": 8037,
+        "line": "21:49:31-624 Start Climber mode:STATIC_UP distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.634033203125,
+        "seqNumber": 8038,
+        "line": "21:49:31-626 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.647705078125,
+        "seqNumber": 8039,
+        "line": "21:49:31-639 End Climber CMD End mode:STATIC_UP dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 315.947509765625,
+        "seqNumber": 8040,
+        "line": "21:49:31-939 ************** Dist:142.10 pulse:-1 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.167724609375,
+        "seqNumber": 8041,
+        "line": "21:49:32-159 ************** Dist:150.98 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.170654296875,
+        "seqNumber": 8042,
+        "line": "21:49:32-162 Start Climber mode:DISTANCE distance:6.00 req speed:10.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.172607421875,
+        "seqNumber": 8043,
+        "line": "21:49:32-164 SetRequested Speed:10.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.226806640625,
+        "seqNumber": 8044,
+        "line": "21:49:32-217 Desired pos 0.98, current pos:-0.03 left to go:6.02 pitch:0.97"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.326416015625,
+        "seqNumber": 8045,
+        "line": "21:49:32-317 Desired pos 1.98, current pos:0.46 left to go:5.02 pitch:1.34"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.427001953125,
+        "seqNumber": 8046,
+        "line": "21:49:32-418 Desired pos 2.98, current pos:1.76 left to go:4.02 pitch:1.32"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.526123046875,
+        "seqNumber": 8047,
+        "line": "21:49:32-517 Desired pos 3.98, current pos:2.78 left to go:3.02 pitch:1.15"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.626708984375,
+        "seqNumber": 8048,
+        "line": "21:49:32-617 Desired pos 4.98, current pos:3.69 left to go:2.02 pitch:1.18"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.726806640625,
+        "seqNumber": 8049,
+        "line": "21:49:32-718 Desired pos 5.98, current pos:4.74 left to go:1.02 pitch:0.93"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.825927734375,
+        "seqNumber": 8050,
+        "line": "21:49:32-817 Desired pos 6.98, current pos:5.79 left to go:0.02 pitch:0.86"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.925537109375,
+        "seqNumber": 8051,
+        "line": "21:49:32-917 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.929443359375,
+        "seqNumber": 8052,
+        "line": "21:49:32-921 End Climber CMD End mode:DISTANCE dist:6.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 316.947509765625,
+        "seqNumber": 8053,
+        "line": "21:49:32-939 ************** Dist:84.42 pulse:0 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 318.406982421875,
+        "seqNumber": 8054,
+        "line": "21:49:34-399 ************** Dist:153.00 pulse:-1 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 318.607666015625,
+        "seqNumber": 8055,
+        "line": "21:49:34-599 ************** Dist:50.65 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 318.910400390625,
+        "seqNumber": 8056,
+        "line": "21:49:34-902 ************** Dist:153.56 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 318.949462890625,
+        "seqNumber": 8057,
+        "line": "21:49:34-941 Start Climber mode:DYNAMIC_DOWN distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 318.952392578125,
+        "seqNumber": 8058,
+        "line": "21:49:34-943 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 318.968505859375,
+        "seqNumber": 8059,
+        "line": "21:49:34-960 End Climber CMD End mode:DYNAMIC_DOWN dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 318.970458984375,
+        "seqNumber": 8060,
+        "line": "21:49:34-961 Start Climber mode:DISTANCE distance:30.00 req speed:15.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 318.970458984375,
+        "seqNumber": 8061,
+        "line": "21:49:34-963 SetRequested Speed:15.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 318.987060546875,
+        "seqNumber": 8062,
+        "line": "21:49:34-979 ************** Dist:81.38 pulse:0 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 319.026611328125,
+        "seqNumber": 8063,
+        "line": "21:49:35-017 Desired pos 8.44, current pos:6.94 left to go:23.06 pitch:1.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 319.126220703125,
+        "seqNumber": 8064,
+        "line": "21:49:35-117 Desired pos 9.94, current pos:7.64 left to go:21.56 pitch:1.15"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 319.225830078125,
+        "seqNumber": 8065,
+        "line": "21:49:35-217 Desired pos 11.44, current pos:9.15 left to go:20.06 pitch:1.35"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 319.325927734375,
+        "seqNumber": 8066,
+        "line": "21:49:35-317 Desired pos 12.94, current pos:10.84 left to go:18.56 pitch:1.38"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 319.426513671875,
+        "seqNumber": 8067,
+        "line": "21:49:35-417 Desired pos 14.44, current pos:12.48 left to go:17.06 pitch:1.28"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 319.526123046875,
+        "seqNumber": 8068,
+        "line": "21:49:35-517 Desired pos 15.94, current pos:13.98 left to go:15.56 pitch:1.13"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 319.628173828125,
+        "seqNumber": 8069,
+        "line": "21:49:35-619 Desired pos 17.44, current pos:15.44 left to go:14.06 pitch:1.15"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 319.726318359375,
+        "seqNumber": 8070,
+        "line": "21:49:35-717 Desired pos 18.94, current pos:16.96 left to go:12.56 pitch:1.23"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 319.825927734375,
+        "seqNumber": 8071,
+        "line": "21:49:35-817 Desired pos 20.44, current pos:18.47 left to go:11.06 pitch:1.27"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 319.926513671875,
+        "seqNumber": 8072,
+        "line": "21:49:35-917 Desired pos 21.94, current pos:19.96 left to go:9.56 pitch:1.27"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 320.026611328125,
+        "seqNumber": 8073,
+        "line": "21:49:36-017 Desired pos 23.44, current pos:21.49 left to go:8.06 pitch:1.29"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 320.126708984375,
+        "seqNumber": 8074,
+        "line": "21:49:36-117 Desired pos 24.94, current pos:23.01 left to go:6.56 pitch:1.36"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 320.226318359375,
+        "seqNumber": 8075,
+        "line": "21:49:36-217 Desired pos 26.44, current pos:24.52 left to go:5.06 pitch:1.45"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 320.325927734375,
+        "seqNumber": 8076,
+        "line": "21:49:36-317 Desired pos 27.94, current pos:26.03 left to go:3.56 pitch:1.66"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 320.426025390625,
+        "seqNumber": 8077,
+        "line": "21:49:36-417 Desired pos 29.44, current pos:27.27 left to go:2.06 pitch:1.53"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 320.449951171875,
+        "seqNumber": 8078,
+        "line": "21:49:36-441 ************** Dist:149.74 pulse:-1 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 320.526611328125,
+        "seqNumber": 8079,
+        "line": "21:49:36-518 Desired pos 30.94, current pos:27.92 left to go:0.56 pitch:1.45"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 320.624755859375,
+        "seqNumber": 8080,
+        "line": "21:49:36-617 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 320.629150390625,
+        "seqNumber": 8081,
+        "line": "21:49:36-621 End Climber CMD End mode:DISTANCE dist:30.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 321.148681640625,
+        "seqNumber": 8082,
+        "line": "21:49:37-140 Start Climber mode:DYNAMIC_UP distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 321.151123046875,
+        "seqNumber": 8083,
+        "line": "21:49:37-142 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 321.167724609375,
+        "seqNumber": 8084,
+        "line": "21:49:37-159 End Climber CMD End mode:DYNAMIC_UP dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 321.230224609375,
+        "seqNumber": 8085,
+        "line": "21:49:37-220 ************** Dist:78.54 pulse:0 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 321.627685546875,
+        "seqNumber": 8086,
+        "line": "21:49:37-619 ************** Dist:87.42 pulse:8 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.188232421875,
+        "seqNumber": 8087,
+        "line": "21:49:38-180 Start Climber mode:DISTANCE distance:18.00 req speed:3.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.192138671875,
+        "seqNumber": 8088,
+        "line": "21:49:38-184 SetRequested Speed:3.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.226806640625,
+        "seqNumber": 8089,
+        "line": "21:49:38-218 Desired pos 27.78, current pos:28.09 left to go:10.08 pitch:1.36"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.326904296875,
+        "seqNumber": 8090,
+        "line": "21:49:38-318 Desired pos 27.48, current pos:28.08 left to go:9.78 pitch:1.48"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.426025390625,
+        "seqNumber": 8091,
+        "line": "21:49:38-417 Desired pos 27.18, current pos:28.10 left to go:9.48 pitch:1.52"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.527099609375,
+        "seqNumber": 8092,
+        "line": "21:49:38-518 Desired pos 26.88, current pos:28.10 left to go:9.18 pitch:1.41"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.626220703125,
+        "seqNumber": 8093,
+        "line": "21:49:38-617 Desired pos 26.58, current pos:28.10 left to go:8.88 pitch:1.17"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.687744140625,
+        "seqNumber": 8094,
+        "line": "21:49:38-679 ************** Dist:88.92 pulse:8 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.709228515625,
+        "seqNumber": 8095,
+        "line": "21:49:38-700 ************** Dist:151.50 pulse:-1 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.726806640625,
+        "seqNumber": 8096,
+        "line": "21:49:38-717 Desired pos 26.28, current pos:28.10 left to go:8.58 pitch:1.07"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.830322265625,
+        "seqNumber": 8097,
+        "line": "21:49:38-821 Desired pos 25.98, current pos:28.10 left to go:8.28 pitch:1.18"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 322.926513671875,
+        "seqNumber": 8098,
+        "line": "21:49:38-918 Desired pos 25.68, current pos:28.10 left to go:7.98 pitch:1.19"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 323.027099609375,
+        "seqNumber": 8099,
+        "line": "21:49:39-018 Desired pos 25.38, current pos:28.10 left to go:7.68 pitch:1.25"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 323.126708984375,
+        "seqNumber": 8100,
+        "line": "21:49:39-118 Desired pos 25.08, current pos:28.07 left to go:7.38 pitch:1.10"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 323.226318359375,
+        "seqNumber": 8101,
+        "line": "21:49:39-217 Desired pos 24.78, current pos:27.80 left to go:7.08 pitch:0.91"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 323.327392578125,
+        "seqNumber": 8102,
+        "line": "21:49:39-318 Desired pos 24.48, current pos:27.53 left to go:6.78 pitch:0.81"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 323.428955078125,
+        "seqNumber": 8103,
+        "line": "21:49:39-420 Desired pos 24.18, current pos:27.12 left to go:6.48 pitch:0.81"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 323.488525390625,
+        "seqNumber": 8104,
+        "line": "21:49:39-480 ************** Dist:81.17 pulse:0 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 323.526611328125,
+        "seqNumber": 8105,
+        "line": "21:49:39-518 Desired pos 23.88, current pos:26.62 left to go:6.18 pitch:0.97"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 323.626220703125,
+        "seqNumber": 8106,
+        "line": "21:49:39-618 Desired pos 23.58, current pos:26.17 left to go:5.88 pitch:1.12"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 323.726318359375,
+        "seqNumber": 8107,
+        "line": "21:49:39-717 Desired pos 23.28, current pos:25.73 left to go:5.58 pitch:1.18"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 323.826416015625,
+        "seqNumber": 8108,
+        "line": "21:49:39-818 Desired pos 22.98, current pos:25.35 left to go:5.28 pitch:1.13"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 323.926025390625,
+        "seqNumber": 8109,
+        "line": "21:49:39-917 Desired pos 22.68, current pos:24.86 left to go:4.98 pitch:1.11"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 324.026123046875,
+        "seqNumber": 8110,
+        "line": "21:49:40-017 Desired pos 22.38, current pos:24.46 left to go:4.68 pitch:1.16"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 324.126708984375,
+        "seqNumber": 8111,
+        "line": "21:49:40-118 Desired pos 22.08, current pos:24.14 left to go:4.38 pitch:1.23"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 324.225830078125,
+        "seqNumber": 8112,
+        "line": "21:49:40-217 Desired pos 21.78, current pos:23.74 left to go:4.08 pitch:1.11"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 324.325927734375,
+        "seqNumber": 8113,
+        "line": "21:49:40-317 Desired pos 21.48, current pos:23.32 left to go:3.78 pitch:1.02"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 324.426025390625,
+        "seqNumber": 8114,
+        "line": "21:49:40-417 Desired pos 21.18, current pos:23.01 left to go:3.48 pitch:0.97"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 324.526123046875,
+        "seqNumber": 8115,
+        "line": "21:49:40-517 Desired pos 20.88, current pos:22.58 left to go:3.18 pitch:1.17"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 324.626220703125,
+        "seqNumber": 8116,
+        "line": "21:49:40-617 Desired pos 20.58, current pos:22.20 left to go:2.88 pitch:1.05"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 324.726806640625,
+        "seqNumber": 8117,
+        "line": "21:49:40-718 Desired pos 20.28, current pos:21.81 left to go:2.58 pitch:1.03"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 324.826904296875,
+        "seqNumber": 8118,
+        "line": "21:49:40-818 Desired pos 19.98, current pos:21.43 left to go:2.28 pitch:1.10"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 324.848388671875,
+        "seqNumber": 8119,
+        "line": "21:49:40-840 ************** Dist:157.90 pulse:-1 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 324.926025390625,
+        "seqNumber": 8120,
+        "line": "21:49:40-917 Desired pos 19.68, current pos:21.04 left to go:1.98 pitch:1.06"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.026123046875,
+        "seqNumber": 8121,
+        "line": "21:49:41-017 Desired pos 19.38, current pos:20.64 left to go:1.68 pitch:0.93"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.126220703125,
+        "seqNumber": 8122,
+        "line": "21:49:41-117 Desired pos 19.08, current pos:20.25 left to go:1.38 pitch:0.95"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.226318359375,
+        "seqNumber": 8123,
+        "line": "21:49:41-217 Desired pos 18.78, current pos:19.88 left to go:1.08 pitch:1.02"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.248291015625,
+        "seqNumber": 8124,
+        "line": "21:49:41-240 ************** Dist:86.28 pulse:8 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.325927734375,
+        "seqNumber": 8125,
+        "line": "21:49:41-317 Desired pos 18.48, current pos:19.52 left to go:0.78 pitch:1.11"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.426513671875,
+        "seqNumber": 8126,
+        "line": "21:49:41-417 Desired pos 18.18, current pos:19.18 left to go:0.48 pitch:1.17"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.526123046875,
+        "seqNumber": 8127,
+        "line": "21:49:41-517 Desired pos 17.88, current pos:18.85 left to go:0.18 pitch:1.15"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.624755859375,
+        "seqNumber": 8128,
+        "line": "21:49:41-617 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.628173828125,
+        "seqNumber": 8129,
+        "line": "21:49:41-620 End Climber CMD End mode:DISTANCE dist:18.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.630126953125,
+        "seqNumber": 8130,
+        "line": "21:49:41-622 Start Climber mode:STATIC_DOWN distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.631591796875,
+        "seqNumber": 8131,
+        "line": "21:49:41-623 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 325.648193359375,
+        "seqNumber": 8132,
+        "line": "21:49:41-640 End Climber CMD End mode:STATIC_DOWN dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.168701171875,
+        "seqNumber": 8133,
+        "line": "21:49:42-160 Start Climber mode:DISTANCE distance:13.00 req speed:3.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.171630859375,
+        "seqNumber": 8134,
+        "line": "21:49:42-164 SetRequested Speed:3.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.226318359375,
+        "seqNumber": 8135,
+        "line": "21:49:42-218 Desired pos 18.12, current pos:18.39 left to go:5.42 pitch:1.01"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.325927734375,
+        "seqNumber": 8136,
+        "line": "21:49:42-317 Desired pos 17.82, current pos:18.46 left to go:5.12 pitch:1.19"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.329833984375,
+        "seqNumber": 8137,
+        "line": "21:49:42-321 ************** Dist:148.61 pulse:-1 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.429931640625,
+        "seqNumber": 8138,
+        "line": "21:49:42-421 Desired pos 17.52, current pos:18.34 left to go:4.82 pitch:1.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.526611328125,
+        "seqNumber": 8139,
+        "line": "21:49:42-517 Desired pos 17.22, current pos:17.97 left to go:4.52 pitch:1.13"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.625732421875,
+        "seqNumber": 8140,
+        "line": "21:49:42-617 Desired pos 16.92, current pos:17.57 left to go:4.22 pitch:0.99"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.725830078125,
+        "seqNumber": 8141,
+        "line": "21:49:42-717 Desired pos 16.62, current pos:17.24 left to go:3.92 pitch:1.02"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.826416015625,
+        "seqNumber": 8142,
+        "line": "21:49:42-817 Desired pos 16.32, current pos:16.93 left to go:3.62 pitch:1.07"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.907958984375,
+        "seqNumber": 8143,
+        "line": "21:49:42-899 ************** Dist:146.39 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 326.926025390625,
+        "seqNumber": 8144,
+        "line": "21:49:42-917 Desired pos 16.02, current pos:16.58 left to go:3.32 pitch:1.09"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.026123046875,
+        "seqNumber": 8145,
+        "line": "21:49:43-017 Desired pos 15.72, current pos:16.25 left to go:3.02 pitch:1.07"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.126708984375,
+        "seqNumber": 8146,
+        "line": "21:49:43-118 Desired pos 15.42, current pos:15.93 left to go:2.72 pitch:1.04"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.227294921875,
+        "seqNumber": 8147,
+        "line": "21:49:43-217 Desired pos 15.12, current pos:15.62 left to go:2.42 pitch:1.09"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.308837890625,
+        "seqNumber": 8148,
+        "line": "21:49:43-300 ************** Dist:90.83 pulse:8 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.326416015625,
+        "seqNumber": 8149,
+        "line": "21:49:43-317 Desired pos 14.82, current pos:15.32 left to go:2.12 pitch:1.02"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.426025390625,
+        "seqNumber": 8150,
+        "line": "21:49:43-417 Desired pos 14.52, current pos:15.00 left to go:1.82 pitch:1.01"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.526611328125,
+        "seqNumber": 8151,
+        "line": "21:49:43-517 Desired pos 14.22, current pos:14.71 left to go:1.52 pitch:0.96"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.626220703125,
+        "seqNumber": 8152,
+        "line": "21:49:43-617 Desired pos 13.92, current pos:14.40 left to go:1.22 pitch:1.03"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.687255859375,
+        "seqNumber": 8153,
+        "line": "21:49:43-679 ************** Dist:147.63 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.726806640625,
+        "seqNumber": 8154,
+        "line": "21:49:43-718 Desired pos 13.62, current pos:14.09 left to go:0.92 pitch:1.02"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.826416015625,
+        "seqNumber": 8155,
+        "line": "21:49:43-818 Desired pos 13.32, current pos:13.78 left to go:0.62 pitch:1.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.926513671875,
+        "seqNumber": 8156,
+        "line": "21:49:43-917 Desired pos 13.02, current pos:13.48 left to go:0.32 pitch:1.01"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 327.988037109375,
+        "seqNumber": 8157,
+        "line": "21:49:43-979 ************** Dist:161.10 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.026123046875,
+        "seqNumber": 8158,
+        "line": "21:49:44-017 Desired pos 12.72, current pos:13.17 left to go:0.02 pitch:1.05"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.125244140625,
+        "seqNumber": 8159,
+        "line": "21:49:44-117 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.130615234375,
+        "seqNumber": 8160,
+        "line": "21:49:44-122 End Climber CMD End mode:DISTANCE dist:13.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.134033203125,
+        "seqNumber": 8161,
+        "line": "21:49:44-125 Start Climber mode:BAR_RELEASE_OUT distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.137939453125,
+        "seqNumber": 8162,
+        "line": "21:49:44-129 SetRequested Speed:0.00"
+    },
+    {
+        "timestamp": 328.143798828125,
+        "seqNumber": 8163,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "Loop time of 0.02s overrun\n",
+        "location": "edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.144775390625,
+        "seqNumber": 8164,
+        "line": "Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.145263671875,
+        "seqNumber": 8165,
+        "line": ""
+    },
+    {
+        "timestamp": 328.151123046875,
+        "seqNumber": 8166,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "\tteleopPeriodic(): 0.000152s\n\tSmartDashboard.updateValues(): 0.002134s\n\trobotPeriodic(): 0.015105s\n\tLiveWindow.updateValues(): 0.002978s\n\tShuffleboard.update(): 0.000013s\n",
+        "location": "edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.152099609375,
+        "seqNumber": 8167,
+        "line": "Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): \tteleopPeriodic(): 0.000152s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.152587890625,
+        "seqNumber": 8168,
+        "line": "\tSmartDashboard.updateValues(): 0.002134s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.152587890625,
+        "seqNumber": 8169,
+        "line": "\trobotPeriodic(): 0.015105s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.153564453125,
+        "seqNumber": 8170,
+        "line": "\tLiveWindow.updateValues(): 0.002978s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.153564453125,
+        "seqNumber": 8171,
+        "line": "\tShuffleboard.update(): 0.000013s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.154052734375,
+        "seqNumber": 8172,
+        "line": ""
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.167724609375,
+        "seqNumber": 8173,
+        "line": "21:49:44-159 End Climber CMD End mode:BAR_RELEASE_OUT dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.183349609375,
+        "seqNumber": 8174,
+        "line": "21:49:44-174 ************** Dist:24.01 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.588134765625,
+        "seqNumber": 8175,
+        "line": "21:49:44-579 ************** Dist:160.90 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.688232421875,
+        "seqNumber": 8176,
+        "line": "21:49:44-679 Start Climber mode:BAR_RELEASE_IN distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.689697265625,
+        "seqNumber": 8177,
+        "line": "21:49:44-681 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 328.708740234375,
+        "seqNumber": 8178,
+        "line": "21:49:44-700 End Climber CMD End mode:BAR_RELEASE_IN dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.148193359375,
+        "seqNumber": 8179,
+        "line": "21:49:45-139 ************** Dist:110.04 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.229248046875,
+        "seqNumber": 8180,
+        "line": "21:49:45-220 Start Climber mode:DISTANCE distance:0.00 req speed:3.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.231201171875,
+        "seqNumber": 8181,
+        "line": "21:49:45-223 SetRequested Speed:3.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.326416015625,
+        "seqNumber": 8182,
+        "line": "21:49:45-317 Desired pos 12.45, current pos:12.75 left to go:12.75 pitch:1.31"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.427001953125,
+        "seqNumber": 8183,
+        "line": "21:49:45-417 Desired pos 12.15, current pos:12.60 left to go:12.45 pitch:1.13"
+    },
+    {
+        "timestamp": 329.444091796875,
+        "seqNumber": 8184,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "Loop time of 0.02s overrun\n",
+        "location": "edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.445068359375,
+        "seqNumber": 8185,
+        "line": "Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.445556640625,
+        "seqNumber": 8186,
+        "line": ""
+    },
+    {
+        "timestamp": 329.447998046875,
+        "seqNumber": 8187,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "\tteleopPeriodic(): 0.000285s\n\tSmartDashboard.updateValues(): 0.000442s\n\trobotPeriodic(): 0.016896s\n\tLiveWindow.updateValues(): 0.002869s\n\tShuffleboard.update(): 0.000013s\n",
+        "location": "edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.448486328125,
+        "seqNumber": 8188,
+        "line": "Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): \tteleopPeriodic(): 0.000285s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.448974609375,
+        "seqNumber": 8189,
+        "line": "\tSmartDashboard.updateValues(): 0.000442s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.449462890625,
+        "seqNumber": 8190,
+        "line": "\trobotPeriodic(): 0.016896s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.449951171875,
+        "seqNumber": 8191,
+        "line": "\tLiveWindow.updateValues(): 0.002869s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.449951171875,
+        "seqNumber": 8192,
+        "line": "\tShuffleboard.update(): 0.000013s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.449951171875,
+        "seqNumber": 8193,
+        "line": ""
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.527099609375,
+        "seqNumber": 8194,
+        "line": "21:49:45-517 Desired pos 11.85, current pos:12.28 left to go:12.15 pitch:1.08"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.626708984375,
+        "seqNumber": 8195,
+        "line": "21:49:45-617 Desired pos 11.55, current pos:11.94 left to go:11.85 pitch:1.03"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.726318359375,
+        "seqNumber": 8196,
+        "line": "21:49:45-717 Desired pos 11.25, current pos:11.62 left to go:11.55 pitch:1.01"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.826904296875,
+        "seqNumber": 8197,
+        "line": "21:49:45-817 Desired pos 10.95, current pos:11.36 left to go:11.25 pitch:0.96"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 329.926513671875,
+        "seqNumber": 8198,
+        "line": "21:49:45-917 Desired pos 10.65, current pos:11.02 left to go:10.95 pitch:0.96"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.026611328125,
+        "seqNumber": 8199,
+        "line": "21:49:46-017 Desired pos 10.35, current pos:10.68 left to go:10.65 pitch:1.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.032958984375,
+        "seqNumber": 8200,
+        "line": "21:49:46-024 ************** Dist:108.33 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.126220703125,
+        "seqNumber": 8201,
+        "line": "21:49:46-117 Desired pos 10.05, current pos:10.37 left to go:10.35 pitch:0.94"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.236083984375,
+        "seqNumber": 8202,
+        "line": "21:49:46-218 Desired pos 9.75, current pos:10.08 left to go:10.05 pitch:0.88"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.327392578125,
+        "seqNumber": 8203,
+        "line": "21:49:46-318 Desired pos 9.45, current pos:9.76 left to go:9.75 pitch:0.99"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.427001953125,
+        "seqNumber": 8204,
+        "line": "21:49:46-418 Desired pos 9.15, current pos:9.44 left to go:9.45 pitch:1.07"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.431396484375,
+        "seqNumber": 8205,
+        "line": "21:49:46-423 ************** Dist:29.38 pulse:-1 light:true prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.526611328125,
+        "seqNumber": 8206,
+        "line": "21:49:46-518 Desired pos 8.85, current pos:9.13 left to go:9.15 pitch:1.13"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.627197265625,
+        "seqNumber": 8207,
+        "line": "21:49:46-618 Desired pos 8.55, current pos:8.82 left to go:8.85 pitch:1.06"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.726806640625,
+        "seqNumber": 8208,
+        "line": "21:49:46-717 Desired pos 8.25, current pos:8.54 left to go:8.55 pitch:0.97"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.826416015625,
+        "seqNumber": 8209,
+        "line": "21:49:46-818 Desired pos 7.95, current pos:8.28 left to go:8.25 pitch:0.94"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 330.926513671875,
+        "seqNumber": 8210,
+        "line": "21:49:46-918 Desired pos 7.65, current pos:7.94 left to go:7.95 pitch:0.93"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 331.026123046875,
+        "seqNumber": 8211,
+        "line": "21:49:47-017 Desired pos 7.35, current pos:7.64 left to go:7.65 pitch:0.99"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 331.126220703125,
+        "seqNumber": 8212,
+        "line": "21:49:47-118 Desired pos 7.05, current pos:7.34 left to go:7.35 pitch:1.02"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 331.226318359375,
+        "seqNumber": 8213,
+        "line": "21:49:47-217 Desired pos 6.75, current pos:7.02 left to go:7.05 pitch:1.06"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 331.307373046875,
+        "seqNumber": 8214,
+        "line": "21:49:47-299 ************** Dist:167.71 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 331.326904296875,
+        "seqNumber": 8215,
+        "line": "21:49:47-318 Desired pos 6.45, current pos:6.72 left to go:6.75 pitch:1.17"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 331.426513671875,
+        "seqNumber": 8216,
+        "line": "21:49:47-418 Desired pos 6.15, current pos:6.41 left to go:6.45 pitch:1.11"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 331.526123046875,
+        "seqNumber": 8217,
+        "line": "21:49:47-517 Desired pos 5.85, current pos:6.10 left to go:6.15 pitch:1.24"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 331.627685546875,
+        "seqNumber": 8218,
+        "line": "21:49:47-618 Desired pos 5.55, current pos:5.79 left to go:5.85 pitch:1.11"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 331.726318359375,
+        "seqNumber": 8219,
+        "line": "21:49:47-718 Desired pos 5.25, current pos:5.49 left to go:5.55 pitch:1.10"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 331.826416015625,
+        "seqNumber": 8220,
+        "line": "21:49:47-817 Desired pos 4.95, current pos:5.22 left to go:5.25 pitch:1.13"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 331.926513671875,
+        "seqNumber": 8221,
+        "line": "21:49:47-917 Desired pos 4.65, current pos:4.89 left to go:4.95 pitch:1.09"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.026123046875,
+        "seqNumber": 8222,
+        "line": "21:49:48-017 Desired pos 4.35, current pos:4.59 left to go:4.65 pitch:1.08"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.126708984375,
+        "seqNumber": 8223,
+        "line": "21:49:48-117 Desired pos 4.05, current pos:4.29 left to go:4.35 pitch:1.04"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.226806640625,
+        "seqNumber": 8224,
+        "line": "21:49:48-218 Desired pos 3.75, current pos:3.99 left to go:4.05 pitch:1.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.326416015625,
+        "seqNumber": 8225,
+        "line": "21:49:48-317 Desired pos 3.45, current pos:3.68 left to go:3.75 pitch:0.99"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.426513671875,
+        "seqNumber": 8226,
+        "line": "21:49:48-418 Desired pos 3.15, current pos:3.38 left to go:3.45 pitch:0.95"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.488037109375,
+        "seqNumber": 8227,
+        "line": "21:49:48-479 ************** Dist:81.84 pulse:0 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.508544921875,
+        "seqNumber": 8228,
+        "line": "21:49:48-499 ************** Dist:33.46 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.526611328125,
+        "seqNumber": 8229,
+        "line": "21:49:48-518 Desired pos 2.85, current pos:3.06 left to go:3.15 pitch:0.92"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.626708984375,
+        "seqNumber": 8230,
+        "line": "21:49:48-618 Desired pos 2.55, current pos:2.75 left to go:2.85 pitch:0.92"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.726806640625,
+        "seqNumber": 8231,
+        "line": "21:49:48-718 Desired pos 2.25, current pos:2.46 left to go:2.55 pitch:0.89"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.826416015625,
+        "seqNumber": 8232,
+        "line": "21:49:48-817 Desired pos 1.95, current pos:2.16 left to go:2.25 pitch:0.90"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 332.927001953125,
+        "seqNumber": 8233,
+        "line": "21:49:48-918 Desired pos 1.65, current pos:1.86 left to go:1.95 pitch:0.93"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.026611328125,
+        "seqNumber": 8234,
+        "line": "21:49:49-017 Desired pos 1.35, current pos:1.57 left to go:1.65 pitch:0.97"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.126708984375,
+        "seqNumber": 8235,
+        "line": "21:49:49-117 Desired pos 1.05, current pos:1.28 left to go:1.35 pitch:0.95"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.226806640625,
+        "seqNumber": 8236,
+        "line": "21:49:49-217 Desired pos 0.75, current pos:0.98 left to go:1.05 pitch:0.97"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.327880859375,
+        "seqNumber": 8237,
+        "line": "21:49:49-318 Desired pos 0.45, current pos:0.67 left to go:0.75 pitch:0.96"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.427978515625,
+        "seqNumber": 8238,
+        "line": "21:49:49-417 Desired pos 0.15, current pos:0.36 left to go:0.45 pitch:0.96"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.526611328125,
+        "seqNumber": 8239,
+        "line": "21:49:49-517 Desired pos -0.15, current pos:0.06 left to go:0.15 pitch:0.97"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.624755859375,
+        "seqNumber": 8240,
+        "line": "21:49:49-617 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.629150390625,
+        "seqNumber": 8241,
+        "line": "21:49:49-621 End Climber CMD End mode:DISTANCE dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.631103515625,
+        "seqNumber": 8242,
+        "line": "21:49:49-622 Start Climber mode:STATIC_UP distance:0.00 req speed:0.00 delay:5"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.632568359375,
+        "seqNumber": 8243,
+        "line": "21:49:49-624 SetRequested Speed:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.648193359375,
+        "seqNumber": 8244,
+        "line": "21:49:49-640 End Climber CMD End mode:STATIC_UP dist:0.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.748291015625,
+        "seqNumber": 8245,
+        "line": "21:49:49-739 ************** Dist:186.46 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.770751953125,
+        "seqNumber": 8246,
+        "line": "21:49:49-760 ************** Dist:202.88 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 333.948486328125,
+        "seqNumber": 8247,
+        "line": "21:49:49-940 ************** Dist:119.54 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 334.348388671875,
+        "seqNumber": 8248,
+        "line": "21:49:50-340 ************** Dist:202.93 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 334.629638671875,
+        "seqNumber": 8249,
+        "line": "21:49:50-621 ************** Dist:167.87 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 334.648193359375,
+        "seqNumber": 8250,
+        "line": "21:49:50-639 ************** Dist:28.24 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 334.652587890625,
+        "seqNumber": 8251,
+        "line": "21:49:50-644 Start Climber mode:DISTANCE distance:2.00 req speed:3.00 delay:500"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 334.654052734375,
+        "seqNumber": 8252,
+        "line": "21:49:50-646 SetRequested Speed:3.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 334.726318359375,
+        "seqNumber": 8253,
+        "line": "21:49:50-717 Desired pos 0.30, current pos:-0.01 left to go:2.00 pitch:0.75"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 334.826904296875,
+        "seqNumber": 8254,
+        "line": "21:49:50-818 Desired pos 0.60, current pos:0.00 left to go:1.70 pitch:1.39"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 334.926513671875,
+        "seqNumber": 8255,
+        "line": "21:49:50-917 Desired pos 0.90, current pos:0.26 left to go:1.40 pitch:1.36"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 335.026611328125,
+        "seqNumber": 8256,
+        "line": "21:49:51-017 Desired pos 1.20, current pos:0.59 left to go:1.10 pitch:1.40"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 335.126220703125,
+        "seqNumber": 8257,
+        "line": "21:49:51-117 Desired pos 1.50, current pos:0.94 left to go:0.80 pitch:1.34"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 335.227294921875,
+        "seqNumber": 8258,
+        "line": "21:49:51-218 Desired pos 1.80, current pos:1.26 left to go:0.50 pitch:1.16"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 335.327392578125,
+        "seqNumber": 8259,
+        "line": "21:49:51-317 Desired pos 2.10, current pos:1.49 left to go:0.20 pitch:0.78"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 335.425537109375,
+        "seqNumber": 8260,
+        "line": "21:49:51-418 Got there"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 335.429931640625,
+        "seqNumber": 8261,
+        "line": "21:49:51-422 End Climber CMD End mode:DISTANCE dist:2.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 335.431396484375,
+        "seqNumber": 8262,
+        "line": "21:49:51-423 End Auto Climb"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 335.907958984375,
+        "seqNumber": 8263,
+        "line": "21:49:51-899 ************** Dist:179.80 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 336.687744140625,
+        "seqNumber": 8264,
+        "line": "21:49:52-679 ************** Dist:169.83 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 336.787353515625,
+        "seqNumber": 8265,
+        "line": "21:49:52-779 ************** Dist:29.43 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 338.048583984375,
+        "seqNumber": 8266,
+        "line": "21:49:54-040 ************** Dist:111.79 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 338.068115234375,
+        "seqNumber": 8267,
+        "line": "21:49:54-060 ************** Dist:164.56 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 338.548583984375,
+        "seqNumber": 8268,
+        "line": "21:49:54-540 ************** Dist:202.46 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 338.947509765625,
+        "seqNumber": 8269,
+        "line": "21:49:54-939 ************** Dist:30.57 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 340.309814453125,
+        "seqNumber": 8270,
+        "line": "21:49:56-301 ************** Dist:132.91 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 340.708740234375,
+        "seqNumber": 8271,
+        "line": "21:49:56-701 ************** Dist:177.99 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 341.292724609375,
+        "seqNumber": 8272,
+        "line": "21:49:57-279 ************** Dist:33.25 pulse:-1 light:false prep:80.00"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 343.729248046875,
+        "seqNumber": 8273,
+        "line": "21:49:59-721 Loop Count Avg:Infinity Min:5.67 Max:45.64  Garage Collection Avg:Infinity Min:3.50 Max:4.26"
+    },
+    {
+        "timestamp": 345.303955078125,
+        "seqNumber": 8274,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "Loop time of 0.02s overrun\n",
+        "location": "edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 345.305908203125,
+        "seqNumber": 8275,
+        "line": "Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 345.306396484375,
+        "seqNumber": 8276,
+        "line": ""
+    },
+    {
+        "timestamp": 345.316162109375,
+        "seqNumber": 8277,
+        "numOccur": 1,
+        "errorCode": 1,
+        "flags": 0,
+        "details": "\tteleopPeriodic(): 0.000186s\n\tSmartDashboard.updateValues(): 0.001647s\n\trobotPeriodic(): 0.008269s\n\tLiveWindow.updateValues(): 0.012661s\n\tShuffleboard.update(): 0.000013s\n",
+        "location": "edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63)",
+        "callStack": "",
+        "messageType": 1
+    },
+    {
+        "messageType": 2,
+        "timestamp": 345.319580078125,
+        "seqNumber": 8278,
+        "line": "Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): \tteleopPeriodic(): 0.000186s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 345.320068359375,
+        "seqNumber": 8279,
+        "line": "\tSmartDashboard.updateValues(): 0.001647s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 345.320556640625,
+        "seqNumber": 8280,
+        "line": "\trobotPeriodic(): 0.008269s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 345.320556640625,
+        "seqNumber": 8281,
+        "line": "\tLiveWindow.updateValues(): 0.012661s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 345.321044921875,
+        "seqNumber": 8282,
+        "line": "\tShuffleboard.update(): 0.000013s"
+    },
+    {
+        "messageType": 2,
+        "timestamp": 345.321533203125,
+        "seqNumber": 8283,
+        "line": ""
+    },
+    {
+        "messageType": 2,
+        "timestamp": 346.743896484375,
+        "seqNumber": 8284,
+        "line": "21:50:02-736 Robot was disabled"
+    }
+]

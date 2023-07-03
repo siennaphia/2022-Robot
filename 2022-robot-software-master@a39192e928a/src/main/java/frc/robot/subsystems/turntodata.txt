@@ -1,0 +1,412 @@
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+SmartDashboard.updateValues(): 0.002308s
+robotPeriodic(): 0.008519s
+LiveWindow.updateValues(): 0.008833s
+Shuffleboard.update(): 0.000895s
+disabledPeriodic(): 0.000295s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): SmartDashboard.updateValues(): 0.002308s
+robotPeriodic(): 0.008519s
+LiveWindow.updateValues(): 0.008833s
+Shuffleboard.update(): 0.000895s
+disabledPeriodic(): 0.000295s
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+SmartDashboard.updateValues(): 0.001928s
+robotPeriodic(): 0.011125s
+LiveWindow.updateValues(): 0.026609s
+Shuffleboard.update(): 0.000026s
+disabledPeriodic(): 0.000657s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): SmartDashboard.updateValues(): 0.001928s
+robotPeriodic(): 0.011125s
+LiveWindow.updateValues(): 0.026609s
+Shuffleboard.update(): 0.000026s
+disabledPeriodic(): 0.000657s
+18:23:41-480 Start of Teleop
+18:23:41-660 ----------- Set Limelight pipeline robot alliance:Blue new:2 prev:2
+18:23:42-060 d:179.00 r:179.00
+18:23:42-067 d:179.10 r:179.10
+18:23:42-071 d:179.20 r:179.20
+18:23:42-073 d:179.30 r:179.30
+18:23:42-076 d:179.40 r:179.40
+Loop time of 0.02s overrun
+18:23:42-078 d:179.50Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+r:179.50
+18:23:42-082 d:179.60 r:179.60
+18:23:42-085 d:179.70 r:179.70
+18:23:42-088 d:179.80 r:179.80
+18:23:42-091 d:179.90 r:179.90
+18:23:42-093 d:180.00 r:180.00
+18:23:42-096 d:180.10 r:-179.90
+18:23:42-099 d:180.20 r:-179.80
+18:23:42-107 d:180.30 r:-179.70
+18:23:42-110 d:180.40 r:-179.60
+18:23:42-113 d:180.50 r:-179.50
+18:23:42-116 d:180.60 r:-179.40
+18:23:42-129 d:180.70 r:-179.30
+18:23:42-137 d:180.80 r:-179.20
+18:23:42-141 d:180.90 r:-179.10
+18:23:42-144 d:181.00 r:-179.00
+teleopPeriodic(): 0.000140s
+SmartDashboard.updateValues(): 0.000844s
+robotPeriodic(): 0.092204s
+LiveWindow.updateValues(): 0.002724s
+Shuffleboard.update(): 0.000019s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): teleopPeriodic(): 0.000140s
+SmartDashboard.updateValues(): 0.000844s
+robotPeriodic(): 0.092204s
+LiveWindow.updateValues(): 0.002724s
+Shuffleboard.update(): 0.000019s
+18:23:42-461 d:-181.00 r:179.00
+18:23:42-465 d:-180.90 r:179.10
+18:23:42-468 d:-180.80 r:179.20
+18:23:42-470 d:-180.70 r:179.30
+18:23:42-473 d:-180.60 r:179.40
+18:23:42-476 d:-180.50 r:179.50
+18:23:42-478 d:-180.40 r:179.60
+18:23:42-488 d:-180.30 r:179.70
+18:23:42-491 d:-180.20 r:179.80
+18:23:42-502 d:-180.10 r:179.90
+18:23:42-508 d:-180.00 r:180.00
+18:23:42-516 d:-179.90 r:-179.90
+18:23:42-518 d:-179.80 r:-179.80
+18:23:42-525 d:-179.70 r:-179.70
+18:23:42-535 d:-179.60 r:-179.60
+18:23:42-538 d:-179.50 r:-179.50
+18:23:42-565 d:-179.40 r:-179.40
+18:23:42-588 d:-179.30 r:-179.30
+18:23:42-614 d:-179.20 r:-179.20
+18:23:42-636 d:-179.10 r:-179.10
+18:23:42-669 d:-179.00 r:-179.00
+CommandScheduler loop overrun
+YawProvider.periodic(): 0.001230s
+DistanceSensors.periodic(): 0.000772s
+ClimbMotor.periodic(): 0.000441s
+CompressorController.periodic(): 0.000715s
+Drivetrain.periodic(): 0.003515s
+buttons.run(): 0.000144s
+Shooter.periodic(): 0.000681s
+Intake.periodic(): 0.000671s
+PID.periodic(): 0.000217s
+Climber.periodic(): 0.000359s
+Limelight.periodic(): 0.000431s
+PowerHub.periodic(): 0.000517s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): YawProvider.periodic(): 0.001230s
+DistanceSensors.periodic(): 0.000772s
+ClimbMotor.periodic(): 0.000441s
+CompressorController.periodic(): 0.000715s
+Drivetrain.periodic(): 0.003515s
+buttons.run(): 0.000144s
+Shooter.periodic(): 0.000681s
+Intake.periodic(): 0.000671s
+PID.periodic(): 0.000217s
+Climber.periodic(): 0.000359s
+Limelight.periodic(): 0.000431s
+PowerHub.periodic(): 0.000517s
+18:23:42-833 ----------- Set Limelight pipeline robot alliance:Blue new:2 prev:2
+18:23:43-240 Drive Straight start target yaw:-3.66
+18:23:43-462 Drive Straight targ:-3.66 yaw:-7.27 err:-3.61 avg:0.08 factor:-0.01 Fr Dist:30.89
+18:23:43-472 Pos L:851 R:4723 Joy L:0.09 R:0.07
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+teleopPeriodic(): 0.000127s
+SmartDashboard.updateValues(): 0.003129s
+robotPeriodic(): 0.019272s
+LiveWindow.updateValues(): 0.002660s
+Shuffleboard.update(): 0.000020s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): teleopPeriodic(): 0.000127s
+SmartDashboard.updateValues(): 0.003129s
+robotPeriodic(): 0.019272s
+LiveWindow.updateValues(): 0.002660s
+Shuffleboard.update(): 0.000020s
+18:23:43-661 ----------- Set Limelight pipeline robot alliance:Blue new:2 prev:2
+18:23:43-700 Drive Straight finish target:-3.66 yaw:-5.42
+18:23:44-660 ----------- Set Limelight pipeline robot alliance:Blue new:2 prev:2
+18:23:44-664 Drive Straight start target yaw:-10.11
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+teleopPeriodic(): 0.000131s
+SmartDashboard.updateValues(): 0.000821s
+robotPeriodic(): 0.017116s
+LiveWindow.updateValues(): 0.012384s
+Shuffleboard.update(): 0.000027s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): teleopPeriodic(): 0.000131s
+SmartDashboard.updateValues(): 0.000821s
+robotPeriodic(): 0.017116s
+LiveWindow.updateValues(): 0.012384s
+Shuffleboard.update(): 0.000027s
+18:23:45-460 Drive Straight targ:-10.11 yaw:-9.98 err:0.13 avg:0.12 factor:0.00 Fr Dist:26.41
+18:23:45-468 Pos L:6652 R:12390 Joy L:0.12 R:0.12
+18:23:45-474 ---- Schedule Test Command ----
+CommandScheduler loop overrun
+YawProvider.periodic(): 0.000698s
+DistanceSensors.periodic(): 0.000545s
+ClimbMotor.periodic(): 0.000136s
+CompressorController.periodic(): 0.000239s
+Drivetrain.periodic(): 0.011999s
+buttons.run(): 0.000040s
+Shooter.periodic(): 0.007681s
+Intake.periodic(): 0.000431s
+PID.periodic(): 0.001399s
+Climber.periodic(): 0.000311s
+Limelight.periodic(): 0.000651s
+PowerHub.periodic(): 0.000181s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): YawProvider.periodic(): 0.000698s
+DistanceSensors.periodic(): 0.000545s
+ClimbMotor.periodic(): 0.000136s
+CompressorController.periodic(): 0.000239s
+Drivetrain.periodic(): 0.011999s
+buttons.run(): 0.000040s
+Shooter.periodic(): 0.007681s
+Intake.periodic(): 0.000431s
+PID.periodic(): 0.001399s
+Climber.periodic(): 0.000311s
+Limelight.periodic(): 0.000651s
+PowerHub.periodic(): 0.000181s
+18:23:45-695 Loop Count Avg:Infinity Min:10.69 Max:264.28 Garage Collection Avg:Infinity Min:0.00 Max:3.18
+18:23:46-461 Drive Straight targ:-10.11 yaw:-10.47 err:-0.36 avg:-0.23 factor:-0.00 Fr Dist:27.15
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+teleopPeriodic(): 0.000124s
+SmartDashboard.updateValues(): 0.000952s
+robotPeriodic(): 0.016477s
+LiveWindow.updateValues(): 0.013079s
+Shuffleboard.update(): 0.000022s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): teleopPeriodic(): 0.000124s
+SmartDashboard.updateValues(): 0.000952s
+robotPeriodic(): 0.016477s
+LiveWindow.updateValues(): 0.013079s
+Shuffleboard.update(): 0.000022s
+18:23:47-440 Drive Straight finish target:-10.11 yaw:-10.41
+18:23:48-684 ************** Dist:107.50 pulse:-1 light:false prep:80.00
+18:23:48-704 ************** Dist:65.15 pulse:8 light:false prep:80.00
+18:23:48-723 ************** Dist:61.04 pulse:4 light:false prep:80.00
+18:23:48-824 ************** Dist:96.54 pulse:4 light:true prep:80.00
+Loop time of 0.02s overrun
+18:23:48-851 ************** Dist:122.44 pulse:-1 light:true prep:80.00Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+CommandScheduler loop overrun
+YawProvider.periodic(): 0.001410s
+DistanceSensors.periodic(): 0.021603s
+ClimbMotor.periodic(): 0.000556s
+CompressorController.periodic(): 0.000448s
+Drivetrain.periodic(): 0.001077s
+buttons.run(): 0.000406s
+Shooter.periodic(): 0.000883s
+Intake.periodic(): 0.000536s
+PID.periodic(): 0.000317s
+Climber.periodic(): 0.000752s
+Limelight.periodic(): 0.000502s
+PowerHub.periodic(): 0.000314s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): YawProvider.periodic(): 0.001410s
+DistanceSensors.periodic(): 0.021603s
+ClimbMotor.periodic(): 0.000556s
+CompressorController.periodic(): 0.000448s
+Drivetrain.periodic(): 0.001077s
+buttons.run(): 0.000406s
+Shooter.periodic(): 0.000883s
+Intake.periodic(): 0.000536s
+PID.periodic(): 0.000317s
+Climber.periodic(): 0.000752s
+Limelight.periodic(): 0.000502s
+PowerHub.periodic(): 0.000314s
+teleopPeriodic(): 0.000222s
+SmartDashboard.updateValues(): 0.000917s
+robotPeriodic(): 0.077565s
+LiveWindow.updateValues(): 0.059721s
+Shuffleboard.update(): 0.000328s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): teleopPeriodic(): 0.000222s
+SmartDashboard.updateValues(): 0.000917s
+robotPeriodic(): 0.077565s
+LiveWindow.updateValues(): 0.059721s
+Shuffleboard.update(): 0.000328s
+18:23:49-034 ************** Dist:234.80 pulse:-1 light:false prep:80.00
+18:23:49-460 Pos L:-28469 R:-34068 Joy L:-0.00 R:0.06
+18:23:49-884 ************** Dist:83.33 pulse:0 light:false prep:80.00
+18:23:49-904 ************** Dist:61.91 pulse:4 light:true prep:80.00
+18:23:51-366 ************** Dist:45.34 pulse:-1 light:false prep:80.00
+18:24:03-145 ************** Dist:50.20 pulse:-1 light:false prep:80.00
+18:24:03-182 ************** Dist:45.71 pulse:-1 light:false prep:80.00
+18:24:03-424 ************** Dist:37.24 pulse:-1 light:false prep:80.00
+18:24:03-583 ************** Dist:43.22 pulse:-1 light:false prep:80.00
+18:24:03-623 ************** Dist:35.38 pulse:-1 light:false prep:80.00
+18:24:03-724 ************** Dist:42.85 pulse:-1 light:false prep:80.00
+18:24:06-084 ************** Dist:21.18 pulse:-1 light:false prep:80.00
+18:24:06-183 ************** Dist:40.73 pulse:-1 light:false prep:80.00
+18:24:06-564 ************** Dist:36.62 pulse:-1 light:false prep:80.00
+18:24:07-264 ************** Dist:32.01 pulse:-1 light:false prep:80.00
+18:24:07-303 ************** Dist:25.78 pulse:-1 light:false prep:80.00
+18:24:07-744 ************** Dist:28.65 pulse:-1 light:false prep:80.00
+18:24:07-764 ************** Dist:42.48 pulse:-1 light:false prep:80.00
+18:24:07-804 ************** Dist:21.42 pulse:-1 light:false prep:80.00
+18:24:07-904 ************** Dist:41.98 pulse:-1 light:false prep:80.00
+18:24:07-943 ************** Dist:23.54 pulse:-1 light:false prep:80.00
+18:24:08-826 ************** Dist:16.07 pulse:-1 light:false prep:80.00
+18:24:08-883 ************** Dist:13.33 pulse:-1 light:false prep:80.00
+18:24:08-965 ************** Dist:73.37 pulse:8 light:false prep:80.00
+18:24:08-985 ************** Dist:17.94 pulse:-1 light:false prep:80.00
+18:24:09-305 ************** Dist:64.77 pulse:8 light:false prep:80.00
+18:24:09-323 ************** Dist:32.76 pulse:-1 light:false prep:80.00
+18:24:09-364 ************** Dist:20.05 pulse:-1 light:false prep:80.00
+18:24:09-464 ************** Dist:21.80 pulse:-1 light:false prep:80.00
+18:24:09-564 ************** Dist:21.92 pulse:-1 light:false prep:80.00
+18:24:09-984 ************** Dist:30.39 pulse:-1 light:false prep:80.00
+18:24:10-003 ************** Dist:26.03 pulse:-1 light:false prep:80.00
+18:24:10-023 ************** Dist:8.72 pulse:-1 light:false prep:80.00
+18:24:10-583 ************** Dist:0.00 pulse:-1 light:false prep:80.00
+18:24:10-603 ************** Dist:7.22 pulse:-1 light:false prep:80.00
+18:24:10-685 ************** Dist:0.00 pulse:-1 light:false prep:80.00
+18:24:10-704 ************** Dist:7.10 pulse:-1 light:false prep:80.00
+18:24:11-124 ************** Dist:0.00 pulse:-1 light:false prep:80.00
+18:24:11-144 ************** Dist:6.98 pulse:-1 light:false prep:80.00
+18:24:11-704 ************** Dist:27.28 pulse:-1 light:false prep:80.00
+18:24:11-724 ************** Dist:20.93 pulse:-1 light:false prep:80.00
+18:24:11-744 ************** Dist:9.09 pulse:-1 light:false prep:80.00
+18:24:12-324 ************** Dist:15.07 pulse:-1 light:false prep:80.00
+18:24:12-764 ************** Dist:15.20 pulse:-1 light:false prep:80.00
+18:24:12-804 ************** Dist:9.59 pulse:-1 light:false prep:80.00
+18:24:13-143 ************** Dist:51.32 pulse:-1 light:false prep:80.00
+18:24:13-163 ************** Dist:12.95 pulse:-1 light:false prep:80.00
+18:24:13-283 ************** Dist:57.42 pulse:4 light:false prep:80.00
+18:24:13-304 ************** Dist:63.15 pulse:4 light:false prep:80.00
+18:24:13-344 ************** Dist:112.60 pulse:-1 light:false prep:80.00
+18:24:13-384 ************** Dist:145.74 pulse:-1 light:true prep:80.00
+18:24:13-423 ************** Dist:153.21 pulse:-1 light:false prep:80.00
+18:24:13-446 ************** Dist:180.99 pulse:-1 light:false prep:80.00
+18:24:13-484 ************** Dist:212.88 pulse:-1 light:false prep:80.00
+18:24:13-524 ************** Dist:224.21 pulse:-1 light:false prep:80.00
+18:24:13-547 ************** Dist:232.93 pulse:-1 light:false prep:80.00
+18:24:13-584 ************** Dist:236.29 pulse:-1 light:false prep:80.00
+18:24:13-645 ************** Dist:72.99 pulse:8 light:false prep:80.00
+18:24:13-663 ************** Dist:9.84 pulse:-1 light:false prep:80.00
+18:24:14-124 ************** Dist:62.28 pulse:4 light:false prep:80.00
+18:24:14-144 ************** Dist:15.69 pulse:-1 light:false prep:80.00
+18:24:14-264 ************** Dist:50.82 pulse:-1 light:false prep:80.00
+18:24:14-283 ************** Dist:77.35 pulse:0 light:false prep:80.00
+18:24:14-323 ************** Dist:122.44 pulse:-1 light:true prep:80.00
+18:24:14-364 ************** Dist:155.20 pulse:-1 light:false prep:80.00
+18:24:14-384 ************** Dist:168.53 pulse:-1 light:false prep:80.00
+18:24:14-422 ************** Dist:203.28 pulse:-1 light:false prep:80.00
+18:24:14-464 ************** Dist:227.70 pulse:-1 light:false prep:80.00
+18:24:14-483 ************** Dist:232.93 pulse:-1 light:false prep:80.00
+18:24:14-563 ************** Dist:239.28 pulse:-1 light:false prep:80.00
+18:24:14-624 ************** Dist:148.98 pulse:-1 light:false prep:80.00
+18:24:14-644 ************** Dist:23.92 pulse:-1 light:false prep:80.00
+18:24:14-864 ************** Dist:58.17 pulse:4 light:false prep:80.00
+18:24:14-884 ************** Dist:10.71 pulse:-1 light:false prep:80.00
+18:24:15-004 ************** Dist:0.00 pulse:-1 light:false prep:80.00
+18:24:15-023 ************** Dist:7.22 pulse:-1 light:false prep:80.00
+18:24:15-564 ************** Dist:11.58 pulse:-1 light:false prep:80.00
+18:24:15-665 ************** Dist:8.59 pulse:-1 light:false prep:80.00
+18:24:15-804 ************** Dist:72.62 pulse:8 light:false prep:80.00
+18:24:15-844 ************** Dist:110.24 pulse:-1 light:false prep:80.00
+18:24:15-864 ************** Dist:16.69 pulse:-1 light:false prep:80.00
+18:24:15-883 ************** Dist:12.33 pulse:-1 light:false prep:80.00
+18:24:16-003 ************** Dist:14.57 pulse:-1 light:false prep:80.00
+18:24:16-024 ************** Dist:23.17 pulse:-1 light:false prep:80.00
+18:24:16-063 ************** Dist:17.19 pulse:-1 light:false prep:80.00
+18:24:16-284 ************** Dist:54.93 pulse:4 light:false prep:80.00
+18:24:16-304 ************** Dist:21.30 pulse:-1 light:false prep:80.00
+18:24:16-384 ************** Dist:66.89 pulse:8 light:false prep:80.00
+18:24:16-403 ************** Dist:21.18 pulse:-1 light:false prep:80.00
+18:24:16-484 ************** Dist:74.61 pulse:8 light:false prep:80.00
+18:24:16-505 ************** Dist:20.05 pulse:-1 light:false prep:80.00
+18:24:16-584 ************** Dist:71.12 pulse:8 light:false prep:80.00
+18:24:16-624 ************** Dist:92.80 pulse:8 light:false prep:80.00
+18:24:16-643 ************** Dist:49.58 pulse:-1 light:false prep:80.00
+18:24:16-664 ************** Dist:17.06 pulse:-1 light:false prep:80.00
+18:24:17-624 ************** Dist:66.64 pulse:8 light:false prep:80.00
+18:24:17-665 ************** Dist:111.86 pulse:-1 light:true prep:80.00
+18:24:17-685 ************** Dist:18.81 pulse:-1 light:true prep:80.00
+18:24:18-323 ************** Dist:62.03 pulse:4 light:false prep:80.00
+18:24:18-342 ************** Dist:72.37 pulse:8 light:false prep:80.00
+18:24:18-366 ************** Dist:27.15 pulse:-1 light:false prep:80.00
+18:24:18-384 ************** Dist:16.94 pulse:-1 light:false prep:80.00
+18:24:18-544 ************** Dist:59.91 pulse:4 light:false prep:80.00
+18:24:18-564 ************** Dist:73.62 pulse:8 light:false prep:80.00
+18:24:18-604 ************** Dist:80.59 pulse:0 light:false prep:80.00
+18:24:18-623 ************** Dist:18.19 pulse:-1 light:false prep:80.00
+18:24:18-904 ************** Dist:12.95 pulse:-1 light:false prep:80.00
+18:24:19-484 ************** Dist:57.80 pulse:4 light:false prep:80.00
+18:24:19-503 ************** Dist:18.19 pulse:-1 light:false prep:80.00
+18:24:20-164 ************** Dist:44.72 pulse:-1 light:false prep:80.00
+18:24:20-183 ************** Dist:18.68 pulse:-1 light:false prep:80.00
+18:24:20-204 ************** Dist:13.20 pulse:-1 light:false prep:80.00
+18:24:20-324 ************** Dist:49.95 pulse:-1 light:false prep:80.00
+18:24:20-345 ************** Dist:16.82 pulse:-1 light:false prep:80.00
+18:24:21-344 ************** Dist:64.90 pulse:8 light:false prep:80.00
+18:24:21-363 ************** Dist:23.54 pulse:-1 light:false prep:80.00
+18:24:21-384 ************** Dist:17.06 pulse:-1 light:false prep:80.00
+18:24:22-744 ************** Dist:16.07 pulse:-1 light:false prep:80.00
+18:24:23-503 ************** Dist:51.44 pulse:-1 light:false prep:80.00
+18:24:23-523 ************** Dist:23.04 pulse:-1 light:false prep:80.00
+18:24:23-543 ************** Dist:16.69 pulse:-1 light:false prep:80.00
+18:24:23-865 ************** Dist:13.70 pulse:-1 light:false prep:80.00
+18:24:23-923 ************** Dist:18.44 pulse:-1 light:false prep:80.00
+18:24:24-027 ************** Dist:12.33 pulse:-1 light:false prep:80.00
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+teleopPeriodic(): 0.000397s
+SmartDashboard.updateValues(): 0.004350s
+robotPeriodic(): 0.017435s
+LiveWindow.updateValues(): 0.021456s
+Shuffleboard.update(): 0.000012s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): teleopPeriodic(): 0.000397s
+SmartDashboard.updateValues(): 0.004350s
+robotPeriodic(): 0.017435s
+LiveWindow.updateValues(): 0.021456s
+Shuffleboard.update(): 0.000012s
+18:24:24-076 ************** Dist:17.19 pulse:-1 light:false prep:80.00
+18:24:25-204 ************** Dist:15.94 pulse:-1 light:false prep:80.00
+18:24:25-304 ************** Dist:8.10 pulse:-1 light:false prep:80.00
+18:24:25-403 ************** Dist:16.19 pulse:-1 light:false prep:80.00
+18:24:25-544 ************** Dist:12.71 pulse:-1 light:false prep:80.00
+18:24:26-063 ************** Dist:67.01 pulse:8 light:false prep:80.00
+18:24:26-087 ************** Dist:15.82 pulse:-1 light:false prep:80.00
+18:24:26-284 ************** Dist:17.31 pulse:-1 light:false prep:80.00
+18:24:26-324 ************** Dist:12.58 pulse:-1 light:false prep:80.00
+18:24:26-384 ************** Dist:15.20 pulse:-1 light:false prep:80.00
+18:24:26-525 ************** Dist:40.86 pulse:-1 light:false prep:80.00
+18:24:26-544 ************** Dist:63.28 pulse:4 light:false prep:80.00
+18:24:26-565 ************** Dist:48.45 pulse:-1 light:false prep:80.00
+18:24:26-585 ************** Dist:22.05 pulse:-1 light:false prep:80.00
+18:24:28-023 ************** Dist:55.93 pulse:4 light:false prep:80.00
+18:24:28-044 ************** Dist:25.54 pulse:-1 light:false prep:80.00
+18:24:28-063 ************** Dist:14.45 pulse:-1 light:true prep:80.00
+18:24:45-666 Loop Count Avg:Infinity Min:5.54 Max:92.29 Garage Collection Avg:Infinity Min:3.46 Max:3.76
+18:24:46-444 ************** Dist:68.88 pulse:8 light:false prep:80.00
+18:24:46-463 ************** Dist:31.89 pulse:-1 light:false prep:80.00
+18:24:46-503 ************** Dist:16.69 pulse:-1 light:false prep:80.00
+18:24:46-583 ************** Dist:38.36 pulse:-1 light:false prep:80.00
+18:24:46-604 ************** Dist:13.83 pulse:-1 light:false prep:80.00
+18:24:53-183 ************** Dist:15.20 pulse:-1 light:false prep:80.00
+18:24:53-523 ************** Dist:15.45 pulse:-1 light:false prep:80.00
+18:24:55-044 ************** Dist:20.18 pulse:-1 light:false prep:80.00
+18:24:55-204 ************** Dist:8.59 pulse:-1 light:false prep:80.00
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+teleopPeriodic(): 0.000580s
+SmartDashboard.updateValues(): 0.001916s
+robotPeriodic(): 0.010671s
+LiveWindow.updateValues(): 0.042120s
+Shuffleboard.update(): 0.000012s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): teleopPeriodic(): 0.000580s
+SmartDashboard.updateValues(): 0.001916s
+robotPeriodic(): 0.010671s
+LiveWindow.updateValues(): 0.042120s
+Shuffleboard.update(): 0.000012s
+18:24:55-884 ************** Dist:38.99 pulse:-1 light:false prep:80.00
+18:24:55-904 ************** Dist:48.95 pulse:-1 light:false prep:80.00
+18:24:55-924 ************** Dist:36.99 pulse:-1 light:false prep:80.00
+18:24:55-944 ************** Dist:18.68 pulse:-1 light:false prep:80.00
+18:24:56-423 ************** Dist:22.17 pulse:-1 light:false prep:80.00
+18:24:56-484 ************** Dist:43.10 pulse:-1 light:false prep:80.00
+Paused: 116
+Discard
+Clear
+Don't Show Prints
+Switch to Viewer
+Don't Show Warnings
+Disconnect
+Show Timestamps
+Save Log
+Set Team Number

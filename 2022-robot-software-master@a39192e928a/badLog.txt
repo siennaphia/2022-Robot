@@ -1,0 +1,120 @@
+02:25:47-987 Start Climber mode:HOME distance:0.00 req speed:0.00 delay:5
+02:25:47-990 SetRequeted Speed:0.00
+02:25:47-992 Start Homing of climber
+02:25:48-003 Climber is homed count:449 limit L:true R:true
+02:25:48-011 End Climber CMD End mode:HOME dist:0.00
+02:25:48-748 Start Climber mode:HOME distance:0.00 req speed:0.00 delay:5
+02:25:48-753 SetRequeted Speed:0.00
+02:25:48-757 Start Homing of climber
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+teleopPeriodic(): 0.000269s
+SmartDashboard.updateValues(): 0.002218s
+robotPeriodic(): 0.016066s
+LiveWindow.updateValues(): 0.004198s
+Shuffleboard.update(): 0.000014s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): teleopPeriodic(): 0.000269s
+SmartDashboard.updateValues(): 0.002218s
+robotPeriodic(): 0.016066s
+LiveWindow.updateValues(): 0.004198s
+Shuffleboard.update(): 0.000014s
+02:25:48-777 Climber is homed count:449 limit L:true R:true
+02:25:48-782 End Climber CMD End mode:HOME dist:0.00
+
+
+2:27:29-370 Shoot sequence ended state:IDLE overAllDelay:499
+02:27:29-374 Stop Intake -- Intake
+02:27:29-926 Shooter mode:TURRETToAngle
+02:27:29-929 Shoot sequence ended state:IDLE overAllDelay:499
+02:27:29-933 Stop Intake -- Intake
+02:27:30-526 Shooter mode:TURRETToAngle
+02:27:30-529 Shoot sequence ended state:IDLE overAllDelay:499
+02:27:30-532 Stop Intake -- Intake
+02:27:31-806 Shooter mode:TURRETToAngle
+02:27:31-809 Shoot sequence ended state:IDLE overAllDelay:499
+02:27:31-813 Stop Intake -- Intake
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+teleopPeriodic(): 0.000480s
+SmartDashboard.updateValues(): 0.004360s
+robotPeriodic(): 0.011888s
+LiveWindow.updateValues(): 0.003190s
+Shuffleboard.update(): 0.000012s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): teleopPeriodic(): 0.000480s
+SmartDashboard.updateValues(): 0.004360s
+robotPeriodic(): 0.011888s
+LiveWindow.updateValues(): 0.003190s
+Shuffleboard.update(): 0.000012s
+02:27:32-027 Shooter mode:TURRETToAngle
+02:27:32-031 Shoot sequence ended state:IDLE overAllDelay:499
+02:27:32-035 Stop Intake -- Intake
+
+2:29:15-925 Turret Angle:-10.77 Requested Ticks:19687 actual Ticks:399118 homed:true limit:<L:false,R:false>
+02:29:16-005 Turret Angle:-10.77 Requested Ticks:21093 actual Ticks:399118 homed:true limit:<L:false,R:false>
+02:29:16-025 Turret Angle:-10.77 Requested Ticks:22500 actual Ticks:399118 homed:true limit:<L:false,R:false>
+02:29:16-065 Turret Angle:-10.77 Requested Ticks:25312 actual Ticks:399118 homed:true limit:<L:false,R:false>
+02:29:16-085 Turret Angle:-10.77 Requested Ticks:26718 actual Ticks:399118 homed:true limit:<L:false,R:false>
+02:29:16-105 Turret Angle:-10.77 Requested Ticks:29531 actual Ticks:399118 homed:true limit:<L:false,R:false>
+02:29:16-125 Turret Angle:-10.77 Requested Ticks:35156 actual Ticks:399118 homed:true limit:<L:false,R:false>
+02:29:16-145 Set new turret speed:-0.22
+02:29:16-147 Turret Angle:-10.77 Requested Ticks:39375 actual Ticks:399118 homed:true limit:<L:false,R:false>
+02:29:16-165 Set new turret speed:-0.23
+02:29:16-169 Turret Angle:-10.77 Requested Ticks:40781 actual Ticks:399118 homed:true limit:<L:false,R:false>
+Loop time of 0.02s overrun
+Warning at edu.wpi.first.wpilibj.IterativeRobotBase.printLoopOverrunMessage(IterativeRobotBase.java:359): Loop time of 0.02s overrun
+teleopPeriodic(): 0.000373s
+SmartDashboard.updateValues(): 0.001239s
+robotPeriodic(): 0.014429s
+LiveWindow.updateValues(): 0.004902s
+Shuffleboard.update(): 0.000014s
+Warning at edu.wpi.first.wpilibj.Tracer.lambda$printEpochs$0(Tracer.java:63): teleopPeriodic(): 0.000373s
+SmartDashboard.updateValues(): 0.001239s
+robotPeriodic(): 0.014429s
+LiveWindow.updateValues(): 0.004902s
+Shuffleboard.update(): 0.000014s
+02:29:16-225 Set new turret speed:-0.29
+02:29:16-228 Turret Angle:-9.24 Requested Ticks:52031 actual Ticks:389939 homed:true limit:<L:false,R:false>
+02:29:16-247 Set new turret speed:-0.30
+02:29:16-249 Turret Angle:-8.34 Requested Ticks:53437 actual Ticks:384563 homed:true limit:<L:false,R:false>
+
+
+WHat a good turn to should look like - results on my mini
+12:54:37-858 Got Left yaw:7.60 error:0.17
+12:54:37-861 ---- TurnTo POSITION_PID end time:0.0000 target angle:7.77 yaw:7.60
+12:54:38-058 ++++ TurnTo POSITION_PID mode: RELATIVE req angle:-2.0 tar angle:4.4 yaw:6.4 ticks\degrees:6
+12:54:38-064 Set turn pos pid delta:-2.00 yaw:6.41 ticks:-22 direction:LEFT
+12:54:38-068 Fast Turn yaw:6.41 error:-2.00 enc:<L:-196.00,R:235.00>
+12:54:38-078 Fast Turn yaw:6.44 error:-2.03 enc:<L:-196.00,R:235.00>
+12:54:38-099 Fast Turn yaw:6.44 error:-2.03 enc:<L:-200.00,R:233.00>
+12:54:38-118 Fast Turn yaw:6.26 error:-1.85 enc:<L:-205.00,R:225.00>
+12:54:38-139 Fast Turn yaw:5.97 error:-1.56 enc:<L:-208.00,R:221.00>
+12:54:38-158 Fast Turn yaw:5.55 error:-1.14 enc:<L:-211.00,R:220.00>
+12:54:38-178 Fast Turn yaw:4.85 error:-0.44 enc:<L:-214.00,R:218.00>
+12:54:38-199 Fast Turn yaw:4.59 error:-0.18 enc:<L:-215.00,R:217.00>
+12:54:38-218 Got Left yaw:4.34 error:0.07
+
+// Why does GC run every 10 seconds even when Robot is disaabled
+14:29:31-199 !!!!!! Garbage collection mem:4029016 last:2233816 last:0.00
+14:29:41-399 !!!!!! Garbage collection mem:4028784 last:2231768 last:0.00
+14:29:51-559 !!!!!! Garbage collection mem:4028984 last:2231768 last:0.00
+14:30:01-760 !!!!!! Garbage collection mem:4030280 last:2231768 last:0.00
+14:30:11-900 !!!!!! Garbage collection mem:4031104 last:2233816 last:0.00
+14:30:22-099 !!!!!! Garbage collection mem:4028800 last:2231768 last:0.00
+14:30:28-239 Start of Teleop
+14:30:32-260 !!!!!! Garbage collection mem:4029016 last:2231768 last:4.04
+14:30:42-440 !!!!!! Garbage collection mem:4028232 last:2232232 last:10.18
+14:30:52-582 !!!!!! Garbage collection mem:4031104 last:2231768 last:10.14
+14:31:02-760 !!!!!! Garbage collection mem:4028280 last:2232200 last:10.18
+
+
+18:34:50-923 SetRequested Speed:0.00
+18:34:50-934 End Climber CMD End mode:DYNAMIC_DOWN dist:0.00
+18:34:50-940 Start Climber mode:BAR_RELEASE_IN distance:0.00 req speed:0.00 delay:5
+18:34:50-947 SetRequested Speed:0.00
+18:34:50-960 End Climber CMD End mode:BAR_RELEASE_IN dist:0.00
+18:34:50-962 Start Climber mode:DISTANCE distance:12.00 req speed:10.00 delay:500
+18:34:50-966 SetRequested Speed:10.00
+18:34:51-872 Got there
+18:34:51-878 End Climber CMD End mode:DISTANCE dist:12.00
+18:34:51-882 Start Climber mode:DYNAMIC_UP distance:0.00 req speed:0.00 delay:5
+18:34:51-885 SetRequested Speed:0.00
